@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: cddf1823eed203c49bda760972e68a15
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1005643889152762794
+    second: Battle Menu_0
+  - first:
+      213: 6727521781327901172
+    second: Battle Menu_1
+  - first:
+      213: 2220049528735066359
+    second: Battle Menu_2
+  - first:
+      213: -409954299326398078
+    second: Battle Menu_3
+  - first:
+      213: -5202879588100009365
+    second: Battle Menu_4
+  - first:
+      213: -4731188001594377454
+    second: Battle Menu_5
+  - first:
+      213: -1508235156334412739
+    second: Battle Menu_6
+  - first:
+      213: -4140379294256812673
+    second: Battle Menu_7
+  - first:
+      213: 594256706290842621
+    second: Battle Menu_8
+  - first:
+      213: -3203012828254319084
+    second: Battle Menu_9
+  - first:
+      213: -8198716648573813940
+    second: Battle Menu_10
+  - first:
+      213: -7915350631604336629
+    second: Battle Menu_11
+  - first:
+      213: 5679672498852104386
+    second: Battle Menu_12
+  - first:
+      213: -2558312593727258121
+    second: Battle Menu_13
+  - first:
+      213: -4293953893814975022
+    second: Battle Menu_14
+  - first:
+      213: -8053161130465710262
+    second: Battle Menu_15
+  - first:
+      213: 8655879725829184490
+    second: Battle Menu_16
+  - first:
+      213: 7648036675623606237
+    second: Battle Menu_17
+  - first:
+      213: 7147031825035223560
+    second: Battle Menu_18
+  - first:
+      213: -3702102272370930694
+    second: Battle Menu_19
+  - first:
+      213: -6804094417213208771
+    second: Battle Menu_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Battle Menu_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 648
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cd180063c3b02f0800000000000000
+      internalID: -1005643889152762794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 647
+        width: 114
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1b0ca8a65fc5d50800000000000000
+      internalID: 6727521781327901172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_2
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 601
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8e608b8433fce10800000000000000
+      internalID: 2220049528735066359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 600
+        width: 114
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 281818e9cbc8f4af0800000000000000
+      internalID: -409954299326398078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_4
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 546
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b621b26a498abc7b0800000000000000
+      internalID: -5202879588100009365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 546
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b70675491775eb0800000000000000
+      internalID: -4731188001594377454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 499
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c7ee4cd1ca11be0800000000000000
+      internalID: -1508235156334412739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_7
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 499
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7da072f7fa6a86c0800000000000000
+      internalID: -4140379294256812673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_8
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 445
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbfbdb63593f3800800000000000000
+      internalID: 594256706290842621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_9
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 445
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ec1e09dcc9c83d0800000000000000
+      internalID: -3203012828254319084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_10
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 398
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b3da395ae483e80800000000000000
+      internalID: -8198716648573813940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_11
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 398
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b084f82b986072290800000000000000
+      internalID: -7915350631604336629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_12
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 344
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c882a6ab0042de40800000000000000
+      internalID: 5679672498852104386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_13
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 344
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f18a72204c0f7cd0800000000000000
+      internalID: -2558312593727258121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 297
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5c0451fafc864c0800000000000000
+      internalID: -4293953893814975022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_15
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 297
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4fab9b8e9c6d3090800000000000000
+      internalID: -8053161130465710262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_16
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 245
+        width: 108
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebdd84ffbcdf1870800000000000000
+      internalID: 8655879725829184490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 196
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd754bfd5d8432a60800000000000000
+      internalID: 7648036675623606237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_18
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 196
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802e2a9049b5f2360800000000000000
+      internalID: 7147031825035223560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_19
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 142
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb0a2d099d7f9cc0800000000000000
+      internalID: -3702102272370930694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Battle Menu_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 95
+        width: 112
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37c9cb5d200391a0800000000000000
+      internalID: -6804094417213208771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Battle Menu_0: -1005643889152762794
+      Battle Menu_1: 6727521781327901172
+      Battle Menu_10: -8198716648573813940
+      Battle Menu_11: -7915350631604336629
+      Battle Menu_12: 5679672498852104386
+      Battle Menu_13: -2558312593727258121
+      Battle Menu_14: -4293953893814975022
+      Battle Menu_15: -8053161130465710262
+      Battle Menu_16: 8655879725829184490
+      Battle Menu_17: 7648036675623606237
+      Battle Menu_18: 7147031825035223560
+      Battle Menu_19: -3702102272370930694
+      Battle Menu_2: 2220049528735066359
+      Battle Menu_20: -6804094417213208771
+      Battle Menu_3: -409954299326398078
+      Battle Menu_4: -5202879588100009365
+      Battle Menu_5: -4731188001594377454
+      Battle Menu_6: -1508235156334412739
+      Battle Menu_7: -4140379294256812673
+      Battle Menu_8: 594256706290842621
+      Battle Menu_9: -3203012828254319084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

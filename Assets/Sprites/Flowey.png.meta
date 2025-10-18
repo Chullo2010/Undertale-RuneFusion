@@ -1,0 +1,1038 @@
+fileFormatVersion: 2
+guid: c03ef68506642eb4e9e0b80ea7dd0550
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2036293512254924549
+    second: Flowey_0
+  - first:
+      213: -3474106971335964283
+    second: Flowey_1
+  - first:
+      213: -4355487429903980418
+    second: Flowey_2
+  - first:
+      213: -2898833778148401422
+    second: Flowey_3
+  - first:
+      213: 5702153547336297777
+    second: Flowey_4
+  - first:
+      213: 7579640227478548984
+    second: Flowey_5
+  - first:
+      213: 4338021848570918170
+    second: Flowey_6
+  - first:
+      213: 4252219165093819990
+    second: Flowey_7
+  - first:
+      213: -4766657446270238605
+    second: Flowey_8
+  - first:
+      213: -9092294548759241234
+    second: Flowey_9
+  - first:
+      213: 159530447332265972
+    second: Flowey_10
+  - first:
+      213: -9022175185617849201
+    second: Flowey_11
+  - first:
+      213: 610694714622293623
+    second: Flowey_12
+  - first:
+      213: -5237907605457930224
+    second: Flowey_13
+  - first:
+      213: -2012621287756581162
+    second: Flowey_14
+  - first:
+      213: 6854220882987850897
+    second: Flowey_15
+  - first:
+      213: -5346738495604493167
+    second: Flowey_16
+  - first:
+      213: 7778925178969429741
+    second: Flowey_17
+  - first:
+      213: 3456977696731939436
+    second: Flowey_18
+  - first:
+      213: 3816171849894172659
+    second: Flowey_19
+  - first:
+      213: 8105860074572202534
+    second: Flowey_20
+  - first:
+      213: 2387546225038322327
+    second: Flowey_21
+  - first:
+      213: 6275724208559005856
+    second: Flowey_22
+  - first:
+      213: -5924969694497020603
+    second: Flowey_23
+  - first:
+      213: -4927638087493033709
+    second: Flowey_24
+  - first:
+      213: 3254134484091016172
+    second: Flowey_25
+  - first:
+      213: -4030274333699289741
+    second: Flowey_26
+  - first:
+      213: 946397701324561511
+    second: Flowey_27
+  - first:
+      213: -7610225570548487953
+    second: Flowey_28
+  - first:
+      213: -7102534486274763321
+    second: Flowey_29
+  - first:
+      213: -838314327810082187
+    second: Flowey_30
+  - first:
+      213: -5668943931009131521
+    second: Flowey_31
+  - first:
+      213: 6292500211055290645
+    second: Flowey_32
+  - first:
+      213: 5527628683417226791
+    second: Flowey_33
+  - first:
+      213: 9169108378276338293
+    second: Flowey_34
+  - first:
+      213: -555720378233295284
+    second: Flowey_35
+  - first:
+      213: 2303273769477839074
+    second: Flowey_36
+  - first:
+      213: -4519801730386933199
+    second: Flowey_37
+  - first:
+      213: 6443431992332598154
+    second: Flowey_38
+  - first:
+      213: 6520986420239312519
+    second: Flowey_39
+  - first:
+      213: -2631210679594263882
+    second: Flowey_40
+  - first:
+      213: -951410591522940008
+    second: Flowey_41
+  - first:
+      213: -8447326968959250665
+    second: Flowey_42
+  - first:
+      213: 8013320993654660775
+    second: Flowey_43
+  - first:
+      213: -8702515891783020889
+    second: Flowey_44
+  - first:
+      213: -6093316621351464419
+    second: Flowey_45
+  - first:
+      213: -2369698550806828110
+    second: Flowey_46
+  - first:
+      213: 7280786189708567041
+    second: Flowey_47
+  - first:
+      213: -6405873901961354105
+    second: Flowey_48
+  - first:
+      213: 5027353192551812733
+    second: Flowey_49
+  - first:
+      213: -3455633780038676068
+    second: Flowey_50
+  - first:
+      213: -2426688259166596975
+    second: Flowey_51
+  - first:
+      213: 5827946346766898958
+    second: Flowey_52
+  - first:
+      213: 5363536285992198692
+    second: Flowey_53
+  - first:
+      213: -1135972574157252021
+    second: Flowey_54
+  - first:
+      213: 7505179827664316822
+    second: Flowey_55
+  - first:
+      213: 2765459709892540754
+    second: Flowey_56
+  - first:
+      213: -899754020578841476
+    second: Flowey_57
+  - first:
+      213: -4610951915880226792
+    second: Flowey_58
+  - first:
+      213: 4309166926825556080
+    second: Flowey_59
+  - first:
+      213: 8476270109864079738
+    second: Flowey_60
+  - first:
+      213: 1304864769697664928
+    second: Flowey_61
+  - first:
+      213: 3668379065815055622
+    second: Flowey_62
+  - first:
+      213: 2547490637918312444
+    second: Flowey_63
+  - first:
+      213: -8125387683918428234
+    second: Flowey_64
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flowey_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 235
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13da6b3a07e122f40800000000000000
+      internalID: 5702153547336297777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 235
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1be14d0aa403960800000000000000
+      internalID: 7579640227478548984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 185
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d631e32a9bb114e0800000000000000
+      internalID: -2012621287756581162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 185
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c1e8ee3951f1f50800000000000000
+      internalID: 6854220882987850897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 185
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194769e9aa19cc5b0800000000000000
+      internalID: -5346738495604493167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 185
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de690da5c3b44fb60800000000000000
+      internalID: 7778925178969429741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_18
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 185
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62c72a36e6a9ff20800000000000000
+      internalID: 3456977696731939436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 185
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f799ca1414c5f430800000000000000
+      internalID: 3816171849894172659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 185
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622c5e78acccd7070800000000000000
+      internalID: 8105860074572202534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 185
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79aeb3454a4422120800000000000000
+      internalID: 2387546225038322327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 185
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a0aa7fdae9d71750800000000000000
+      internalID: 6275724208559005856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 135
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8ecde0a2c036690800000000000000
+      internalID: -7610225570548487953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_29
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 135
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c591acf38abe6d90800000000000000
+      internalID: -7102534486274763321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 135
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb1894b78dd351b0800000000000000
+      internalID: -5668943931009131521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 85
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b1bb89b19ebc2f0800000000000000
+      internalID: -951410591522940008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_43
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 85
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ae57f1ccf8053f60800000000000000
+      internalID: 8013320993654660775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_44
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 85
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aec41287e37a3780800000000000000
+      internalID: -8702515891783020889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_45
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 85
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12dc5011d0307ba0800000000000000
+      internalID: -6093316621351464419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_46
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 85
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bba66629b32d1fd0800000000000000
+      internalID: -2369698550806828110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_47
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 85
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102262bd67c8a0560800000000000000
+      internalID: 7280786189708567041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_48
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 85
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784e5ad30a3c917a0800000000000000
+      internalID: -6405873901961354105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 85
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e0a72b71fb4c540800000000000000
+      internalID: 5027353192551812733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_50
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 85
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9154f2c26f1b00d0800000000000000
+      internalID: -3455633780038676068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_54
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 43
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a55c266f63c30f0800000000000000
+      internalID: -1135972574157252021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_55
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 43
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699eb530a41c72860800000000000000
+      internalID: 7505179827664316822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_56
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 43
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259bcc044f2e06620800000000000000
+      internalID: 2765459709892540754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_57
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 43
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c2b224c7e6383f0800000000000000
+      internalID: -899754020578841476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_58
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 43
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8106d8199ab9200c0800000000000000
+      internalID: -4610951915880226792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b745bd93f2dc3f80800000000000000
+      internalID: -8125387683918428234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey_0
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 43
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9f6692b3fc285c44ac09a4edec56c04
+      internalID: -2036293512254924549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9a2e715140c2fae46b661bdc85c865bf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flowey_0: -2036293512254924549
+      Flowey_1: -3474106971335964283
+      Flowey_10: 159530447332265972
+      Flowey_11: -9022175185617849201
+      Flowey_12: 610694714622293623
+      Flowey_13: -5237907605457930224
+      Flowey_14: -2012621287756581162
+      Flowey_15: 6854220882987850897
+      Flowey_16: -5346738495604493167
+      Flowey_17: 7778925178969429741
+      Flowey_18: 3456977696731939436
+      Flowey_19: 3816171849894172659
+      Flowey_2: -4355487429903980418
+      Flowey_20: 8105860074572202534
+      Flowey_21: 2387546225038322327
+      Flowey_22: 6275724208559005856
+      Flowey_23: -5924969694497020603
+      Flowey_24: -4927638087493033709
+      Flowey_25: 3254134484091016172
+      Flowey_26: -4030274333699289741
+      Flowey_27: 946397701324561511
+      Flowey_28: -7610225570548487953
+      Flowey_29: -7102534486274763321
+      Flowey_3: -2898833778148401422
+      Flowey_30: -838314327810082187
+      Flowey_31: -5668943931009131521
+      Flowey_32: 6292500211055290645
+      Flowey_33: 5527628683417226791
+      Flowey_34: 9169108378276338293
+      Flowey_35: -555720378233295284
+      Flowey_36: 2303273769477839074
+      Flowey_37: -4519801730386933199
+      Flowey_38: 6443431992332598154
+      Flowey_39: 6520986420239312519
+      Flowey_4: 5702153547336297777
+      Flowey_40: -2631210679594263882
+      Flowey_41: -951410591522940008
+      Flowey_42: -8447326968959250665
+      Flowey_43: 8013320993654660775
+      Flowey_44: -8702515891783020889
+      Flowey_45: -6093316621351464419
+      Flowey_46: -2369698550806828110
+      Flowey_47: 7280786189708567041
+      Flowey_48: -6405873901961354105
+      Flowey_49: 5027353192551812733
+      Flowey_5: 7579640227478548984
+      Flowey_50: -3455633780038676068
+      Flowey_51: -2426688259166596975
+      Flowey_52: 5827946346766898958
+      Flowey_53: 5363536285992198692
+      Flowey_54: -1135972574157252021
+      Flowey_55: 7505179827664316822
+      Flowey_56: 2765459709892540754
+      Flowey_57: -899754020578841476
+      Flowey_58: -4610951915880226792
+      Flowey_59: 4309166926825556080
+      Flowey_6: 4338021848570918170
+      Flowey_60: 8476270109864079738
+      Flowey_61: 1304864769697664928
+      Flowey_62: 3668379065815055622
+      Flowey_63: 2547490637918312444
+      Flowey_64: -8125387683918428234
+      Flowey_65: -1638170281
+      Flowey_7: 4252219165093819990
+      Flowey_8: -4766657446270238605
+      Flowey_9: -9092294548759241234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

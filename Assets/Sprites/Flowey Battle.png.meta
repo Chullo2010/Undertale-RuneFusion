@@ -1,0 +1,5469 @@
+fileFormatVersion: 2
+guid: 1a1439225e2476746b78b621e9f20199
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5255828666651968333
+    second: Flowey Battle_0
+  - first:
+      213: -1657905021166048759
+    second: Flowey Battle_1
+  - first:
+      213: -4607611009923880345
+    second: Flowey Battle_2
+  - first:
+      213: 4255277157923338868
+    second: Flowey Battle_3
+  - first:
+      213: 5321995649103134136
+    second: Flowey Battle_4
+  - first:
+      213: 7843385315824702596
+    second: Flowey Battle_5
+  - first:
+      213: -3074272166047317218
+    second: Flowey Battle_6
+  - first:
+      213: -5689578369186004215
+    second: Flowey Battle_7
+  - first:
+      213: 5417519641912767539
+    second: Flowey Battle_8
+  - first:
+      213: 140640853453690629
+    second: Flowey Battle_9
+  - first:
+      213: -8302511638368157132
+    second: Flowey Battle_10
+  - first:
+      213: -4095206777217304899
+    second: Flowey Battle_11
+  - first:
+      213: 424417224233469109
+    second: Flowey Battle_12
+  - first:
+      213: -9038638210632954843
+    second: Flowey Battle_13
+  - first:
+      213: -6825537549118970061
+    second: Flowey Battle_14
+  - first:
+      213: 2482240757743300326
+    second: Flowey Battle_15
+  - first:
+      213: 8704610200013470572
+    second: Flowey Battle_16
+  - first:
+      213: -5459720948257859498
+    second: Flowey Battle_17
+  - first:
+      213: -5785326860592135853
+    second: Flowey Battle_18
+  - first:
+      213: 1720334728664380213
+    second: Flowey Battle_19
+  - first:
+      213: -7504839861967808535
+    second: Flowey Battle_20
+  - first:
+      213: -3555461468881566686
+    second: Flowey Battle_21
+  - first:
+      213: -6359670307527313991
+    second: Flowey Battle_22
+  - first:
+      213: -7958367110526584808
+    second: Flowey Battle_23
+  - first:
+      213: 4408730922162325412
+    second: Flowey Battle_24
+  - first:
+      213: 2466053908940231903
+    second: Flowey Battle_25
+  - first:
+      213: -4682975615254591393
+    second: Flowey Battle_26
+  - first:
+      213: 6502387722798438727
+    second: Flowey Battle_27
+  - first:
+      213: -6232481506141314287
+    second: Flowey Battle_28
+  - first:
+      213: -895731992795871055
+    second: Flowey Battle_29
+  - first:
+      213: 6661569009581604744
+    second: Flowey Battle_30
+  - first:
+      213: -3548116744168376426
+    second: Flowey Battle_31
+  - first:
+      213: -6644148820185205167
+    second: Flowey Battle_32
+  - first:
+      213: -736257987497926230
+    second: Flowey Battle_33
+  - first:
+      213: -5002671619631394637
+    second: Flowey Battle_34
+  - first:
+      213: -4576900636264941725
+    second: Flowey Battle_35
+  - first:
+      213: -6599926331201233735
+    second: Flowey Battle_36
+  - first:
+      213: 4844944748137642124
+    second: Flowey Battle_37
+  - first:
+      213: 5566066743219284504
+    second: Flowey Battle_38
+  - first:
+      213: 601027078962231486
+    second: Flowey Battle_39
+  - first:
+      213: 5516659492940469138
+    second: Flowey Battle_40
+  - first:
+      213: 8279033837305416421
+    second: Flowey Battle_41
+  - first:
+      213: 7602120665282587698
+    second: Flowey Battle_42
+  - first:
+      213: 8311374685912339333
+    second: Flowey Battle_43
+  - first:
+      213: -6964880036719926374
+    second: Flowey Battle_44
+  - first:
+      213: 8254418970594822890
+    second: Flowey Battle_45
+  - first:
+      213: -6900112085430795971
+    second: Flowey Battle_46
+  - first:
+      213: -6545341705278130213
+    second: Flowey Battle_47
+  - first:
+      213: 3880042983295318980
+    second: Flowey Battle_48
+  - first:
+      213: -8874215024834626317
+    second: Flowey Battle_49
+  - first:
+      213: -8426852889978732404
+    second: Flowey Battle_50
+  - first:
+      213: 4787608753429648332
+    second: Flowey Battle_51
+  - first:
+      213: 2809376110484273172
+    second: Flowey Battle_52
+  - first:
+      213: 9086519086296422739
+    second: Flowey Battle_53
+  - first:
+      213: 5535466070835159531
+    second: Flowey Battle_54
+  - first:
+      213: -1105903498799499633
+    second: Flowey Battle_55
+  - first:
+      213: -3878690925616251555
+    second: Flowey Battle_56
+  - first:
+      213: 8598545731117213265
+    second: Flowey Battle_57
+  - first:
+      213: 5829162166658364207
+    second: Flowey Battle_58
+  - first:
+      213: 973554911780848886
+    second: Flowey Battle_59
+  - first:
+      213: -7250477963115314857
+    second: Flowey Battle_60
+  - first:
+      213: -999702732116647684
+    second: Flowey Battle_61
+  - first:
+      213: -8602988410972497184
+    second: Flowey Battle_62
+  - first:
+      213: -6214606917370050828
+    second: Flowey Battle_63
+  - first:
+      213: -8118487037317884971
+    second: Flowey Battle_64
+  - first:
+      213: -5310665425494571054
+    second: Flowey Battle_65
+  - first:
+      213: 4792755169838013282
+    second: Flowey Battle_66
+  - first:
+      213: -6023976119656425529
+    second: Flowey Battle_67
+  - first:
+      213: -3779875994959349312
+    second: Flowey Battle_68
+  - first:
+      213: -270264343213106874
+    second: Flowey Battle_69
+  - first:
+      213: -4859708629218350304
+    second: Flowey Battle_70
+  - first:
+      213: 799521609443945600
+    second: Flowey Battle_71
+  - first:
+      213: -1661585430713043587
+    second: Flowey Battle_72
+  - first:
+      213: -6455832236157675812
+    second: Flowey Battle_73
+  - first:
+      213: -6366331070164538118
+    second: Flowey Battle_74
+  - first:
+      213: -8723641787991543068
+    second: Flowey Battle_75
+  - first:
+      213: -4911222215506630404
+    second: Flowey Battle_76
+  - first:
+      213: -8667774001733584453
+    second: Flowey Battle_77
+  - first:
+      213: 1236637492308180448
+    second: Flowey Battle_78
+  - first:
+      213: 4000794165386150085
+    second: Flowey Battle_79
+  - first:
+      213: -3565612045117856528
+    second: Flowey Battle_80
+  - first:
+      213: 6502313668492043836
+    second: Flowey Battle_81
+  - first:
+      213: 1579837997973701730
+    second: Flowey Battle_82
+  - first:
+      213: 2199956841593970668
+    second: Flowey Battle_83
+  - first:
+      213: -191720833249392875
+    second: Flowey Battle_84
+  - first:
+      213: 3541481397873128673
+    second: Flowey Battle_85
+  - first:
+      213: 7977781258445851613
+    second: Flowey Battle_86
+  - first:
+      213: 334039810767509125
+    second: Flowey Battle_87
+  - first:
+      213: -1261081612525456806
+    second: Flowey Battle_88
+  - first:
+      213: -4068975885708896857
+    second: Flowey Battle_89
+  - first:
+      213: -4419036697431721458
+    second: Flowey Battle_90
+  - first:
+      213: 6220414751799413970
+    second: Flowey Battle_91
+  - first:
+      213: -4537649523951158475
+    second: Flowey Battle_92
+  - first:
+      213: -4852316506544245533
+    second: Flowey Battle_93
+  - first:
+      213: 2853683473318306505
+    second: Flowey Battle_94
+  - first:
+      213: 5518422761505852183
+    second: Flowey Battle_95
+  - first:
+      213: -8075538394238334552
+    second: Flowey Battle_96
+  - first:
+      213: 9118002447714767604
+    second: Flowey Battle_97
+  - first:
+      213: -5601743654524089499
+    second: Flowey Battle_98
+  - first:
+      213: 905845320503573982
+    second: Flowey Battle_99
+  - first:
+      213: -791424342177254556
+    second: Flowey Battle_100
+  - first:
+      213: -2804610488995757711
+    second: Flowey Battle_101
+  - first:
+      213: -8794843333703971571
+    second: Flowey Battle_102
+  - first:
+      213: 3743337650684536672
+    second: Flowey Battle_103
+  - first:
+      213: -7780361504221665440
+    second: Flowey Battle_104
+  - first:
+      213: -7018297765383152974
+    second: Flowey Battle_105
+  - first:
+      213: 4028979956342223308
+    second: Flowey Battle_106
+  - first:
+      213: 148053059102927334
+    second: Flowey Battle_107
+  - first:
+      213: -3154265300171535675
+    second: Flowey Battle_108
+  - first:
+      213: 7608737002186791095
+    second: Flowey Battle_109
+  - first:
+      213: -823235995296538020
+    second: Flowey Battle_110
+  - first:
+      213: -6248397228861370067
+    second: Flowey Battle_111
+  - first:
+      213: -1253016300461014425
+    second: Flowey Battle_112
+  - first:
+      213: -1511161564431281262
+    second: Flowey Battle_113
+  - first:
+      213: -6377831049500739549
+    second: Flowey Battle_114
+  - first:
+      213: -7831751152513230772
+    second: Flowey Battle_115
+  - first:
+      213: 301019220446673591
+    second: Flowey Battle_116
+  - first:
+      213: 922306174929839958
+    second: Flowey Battle_117
+  - first:
+      213: 2019223266581435008
+    second: Flowey Battle_118
+  - first:
+      213: 8877487830061925222
+    second: Flowey Battle_119
+  - first:
+      213: 3015702468259039862
+    second: Flowey Battle_120
+  - first:
+      213: -4767169072654715379
+    second: Flowey Battle_121
+  - first:
+      213: -5652415599668253564
+    second: Flowey Battle_122
+  - first:
+      213: -8763772677358647892
+    second: Flowey Battle_123
+  - first:
+      213: 6413223658079220881
+    second: Flowey Battle_124
+  - first:
+      213: -359728068077723973
+    second: Flowey Battle_125
+  - first:
+      213: -653760310963266324
+    second: Flowey Battle_126
+  - first:
+      213: -9103517268151430636
+    second: Flowey Battle_127
+  - first:
+      213: -1405747522814291519
+    second: Flowey Battle_128
+  - first:
+      213: 1228534518349055855
+    second: Flowey Battle_129
+  - first:
+      213: -2772962703983808823
+    second: Flowey Battle_130
+  - first:
+      213: -6800118404226416511
+    second: Flowey Battle_131
+  - first:
+      213: -2396055011811152799
+    second: Flowey Battle_132
+  - first:
+      213: 1113772567768481858
+    second: Flowey Battle_133
+  - first:
+      213: 8894896598115089598
+    second: Flowey Battle_134
+  - first:
+      213: -4943693101840994067
+    second: Flowey Battle_135
+  - first:
+      213: 8944880615549614000
+    second: Flowey Battle_136
+  - first:
+      213: 2902329865167847312
+    second: Flowey Battle_137
+  - first:
+      213: -1950372191334225385
+    second: Flowey Battle_138
+  - first:
+      213: 4574446442347484087
+    second: Flowey Battle_139
+  - first:
+      213: -4451281176531077233
+    second: Flowey Battle_140
+  - first:
+      213: -2876494979160716808
+    second: Flowey Battle_141
+  - first:
+      213: -1717209574706133523
+    second: Flowey Battle_142
+  - first:
+      213: -3111283603274429302
+    second: Flowey Battle_143
+  - first:
+      213: 7347818834406185984
+    second: Flowey Battle_144
+  - first:
+      213: -9046501046937736983
+    second: Flowey Battle_145
+  - first:
+      213: -3735729724727454766
+    second: Flowey Battle_146
+  - first:
+      213: -6544144757846586137
+    second: Flowey Battle_147
+  - first:
+      213: -8431606719218732119
+    second: Flowey Battle_148
+  - first:
+      213: -5044377494181621639
+    second: Flowey Battle_149
+  - first:
+      213: 8324176351731349893
+    second: Flowey Battle_150
+  - first:
+      213: 4996182521619285752
+    second: Flowey Battle_151
+  - first:
+      213: 3578594576841380450
+    second: Flowey Battle_152
+  - first:
+      213: 8976520977597719741
+    second: Flowey Battle_153
+  - first:
+      213: -7671854988350003346
+    second: Flowey Battle_154
+  - first:
+      213: -2115419307980862191
+    second: Flowey Battle_155
+  - first:
+      213: -8786384882474205251
+    second: Flowey Battle_156
+  - first:
+      213: -2575487171483050795
+    second: Flowey Battle_157
+  - first:
+      213: 6079013773143904874
+    second: Flowey Battle_158
+  - first:
+      213: -6032563296418426087
+    second: Flowey Battle_159
+  - first:
+      213: -2712900333475965907
+    second: Flowey Battle_160
+  - first:
+      213: 7950827169552416609
+    second: Flowey Battle_161
+  - first:
+      213: 2102161916384216134
+    second: Flowey Battle_162
+  - first:
+      213: -5486444071979747135
+    second: Flowey Battle_163
+  - first:
+      213: 4781503094084522145
+    second: Flowey Battle_164
+  - first:
+      213: 3689055924877981179
+    second: Flowey Battle_165
+  - first:
+      213: 831958552684140886
+    second: Flowey Battle_166
+  - first:
+      213: -6261278260404838335
+    second: Flowey Battle_167
+  - first:
+      213: -2438152100757306149
+    second: Flowey Battle_168
+  - first:
+      213: -1069911944423356702
+    second: Flowey Battle_169
+  - first:
+      213: 8921450931906264000
+    second: Flowey Battle_170
+  - first:
+      213: 7202087005759509049
+    second: Flowey Battle_171
+  - first:
+      213: 6698183752169348462
+    second: Flowey Battle_172
+  - first:
+      213: 1072406261217958297
+    second: Flowey Battle_173
+  - first:
+      213: 4627155905384188080
+    second: Flowey Battle_174
+  - first:
+      213: 7548762805065190882
+    second: Flowey Battle_175
+  - first:
+      213: 8185851697105745593
+    second: Flowey Battle_176
+  - first:
+      213: -334394837671511251
+    second: Flowey Battle_177
+  - first:
+      213: -3995414870843643118
+    second: Flowey Battle_178
+  - first:
+      213: -6826806664513051510
+    second: Flowey Battle_179
+  - first:
+      213: -4634327217227710168
+    second: Flowey Battle_180
+  - first:
+      213: -1059914744268181412
+    second: Flowey Battle_181
+  - first:
+      213: -109103879889416074
+    second: Flowey Battle_182
+  - first:
+      213: 2777954408370008637
+    second: Flowey Battle_183
+  - first:
+      213: 4586822486384176153
+    second: Flowey Battle_184
+  - first:
+      213: -6263089631067661696
+    second: Flowey Battle_185
+  - first:
+      213: -3765190587698382262
+    second: Flowey Battle_186
+  - first:
+      213: -2436554328460767986
+    second: Flowey Battle_187
+  - first:
+      213: 3950875962465350564
+    second: Flowey Battle_188
+  - first:
+      213: -2424336139819081770
+    second: Flowey Battle_189
+  - first:
+      213: -2815806981168295253
+    second: Flowey Battle_190
+  - first:
+      213: -3326537393803402479
+    second: Flowey Battle_191
+  - first:
+      213: -2103701776969629371
+    second: Flowey Battle_192
+  - first:
+      213: 1097647601154238919
+    second: Flowey Battle_193
+  - first:
+      213: 5130123488711970540
+    second: Flowey Battle_194
+  - first:
+      213: 4756656183266420158
+    second: Flowey Battle_195
+  - first:
+      213: 4880676707432723158
+    second: Flowey Battle_196
+  - first:
+      213: 9212044277008660643
+    second: Flowey Battle_197
+  - first:
+      213: 975000715396625132
+    second: Flowey Battle_198
+  - first:
+      213: -9195817073944274530
+    second: Flowey Battle_199
+  - first:
+      213: -8499808557210770408
+    second: Flowey Battle_200
+  - first:
+      213: 4701650356147066977
+    second: Flowey Battle_201
+  - first:
+      213: -2726992061866816127
+    second: Flowey Battle_202
+  - first:
+      213: -7780991132920794045
+    second: Flowey Battle_203
+  - first:
+      213: -8042518941300677268
+    second: Flowey Battle_204
+  - first:
+      213: -1457793755457553080
+    second: Flowey Battle_205
+  - first:
+      213: 1771504801536190207
+    second: Flowey Battle_206
+  - first:
+      213: 7216326592168195064
+    second: Flowey Battle_207
+  - first:
+      213: -5346584684707602190
+    second: Flowey Battle_208
+  - first:
+      213: -8776447707580179051
+    second: Flowey Battle_209
+  - first:
+      213: -365131907387734134
+    second: Flowey Battle_210
+  - first:
+      213: 1301029383980596365
+    second: Flowey Battle_211
+  - first:
+      213: 999026949271832094
+    second: Flowey Battle_212
+  - first:
+      213: 876639188893695269
+    second: Flowey Battle_213
+  - first:
+      213: -1041095807268553698
+    second: Flowey Battle_214
+  - first:
+      213: 7145672029767300213
+    second: Flowey Battle_215
+  - first:
+      213: 2398889966856584198
+    second: Flowey Battle_216
+  - first:
+      213: -1615349355902903908
+    second: Flowey Battle_217
+  - first:
+      213: 5216618446875067333
+    second: Flowey Battle_218
+  - first:
+      213: -1130925399091290235
+    second: Flowey Battle_219
+  - first:
+      213: -8753577298825368710
+    second: Flowey Battle_220
+  - first:
+      213: -7808616509038039667
+    second: Flowey Battle_221
+  - first:
+      213: 8515462476430988964
+    second: Flowey Battle_222
+  - first:
+      213: -6446430403446492783
+    second: Flowey Battle_223
+  - first:
+      213: -3487402044153969146
+    second: Flowey Battle_224
+  - first:
+      213: -5795556100037994279
+    second: Flowey Battle_225
+  - first:
+      213: 7456442101002400146
+    second: Flowey Battle_226
+  - first:
+      213: -3644552024107371210
+    second: Flowey Battle_227
+  - first:
+      213: 1074322570431652145
+    second: Flowey Battle_228
+  - first:
+      213: 5194855266161070936
+    second: Flowey Battle_229
+  - first:
+      213: -4729476290186451328
+    second: Flowey Battle_230
+  - first:
+      213: -8236401927166318397
+    second: Flowey Battle_231
+  - first:
+      213: -4784653530555595899
+    second: Flowey Battle_232
+  - first:
+      213: 6633642122991213532
+    second: Flowey Battle_233
+  - first:
+      213: -6369093955142456669
+    second: Flowey Battle_234
+  - first:
+      213: 3767755858560648740
+    second: Flowey Battle_235
+  - first:
+      213: 7778364735503724180
+    second: Flowey Battle_236
+  - first:
+      213: 7701632510967406459
+    second: Flowey Battle_237
+  - first:
+      213: -4952870284061412264
+    second: Flowey Battle_238
+  - first:
+      213: 5617317775717292226
+    second: Flowey Battle_239
+  - first:
+      213: 963561443075249643
+    second: Flowey Battle_240
+  - first:
+      213: 2811399243040415731
+    second: Flowey Battle_241
+  - first:
+      213: -7119926829723340996
+    second: Flowey Battle_242
+  - first:
+      213: 8544738588930046080
+    second: Flowey Battle_243
+  - first:
+      213: -8332856210904709760
+    second: Flowey Battle_244
+  - first:
+      213: -2399984539393317976
+    second: Flowey Battle_245
+  - first:
+      213: -5634389465930553516
+    second: Flowey Battle_246
+  - first:
+      213: 7126695848462131503
+    second: Flowey Battle_247
+  - first:
+      213: -2833180467432175846
+    second: Flowey Battle_248
+  - first:
+      213: 1024352771909125142
+    second: Flowey Battle_249
+  - first:
+      213: -1802834125095183439
+    second: Flowey Battle_250
+  - first:
+      213: 6050122539186884944
+    second: Flowey Battle_251
+  - first:
+      213: 1052641406075328328
+    second: Flowey Battle_252
+  - first:
+      213: -6350547491224024719
+    second: Flowey Battle_253
+  - first:
+      213: -3708972023584683410
+    second: Flowey Battle_254
+  - first:
+      213: 3541216453761997868
+    second: Flowey Battle_255
+  - first:
+      213: -5106821912928031938
+    second: Flowey Battle_256
+  - first:
+      213: 9007218056267436642
+    second: Flowey Battle_257
+  - first:
+      213: 6669366115226395435
+    second: Flowey Battle_258
+  - first:
+      213: -3729586345077224619
+    second: Flowey Battle_259
+  - first:
+      213: 4076427776375951516
+    second: Flowey Battle_260
+  - first:
+      213: 9101538266276827984
+    second: Flowey Battle_261
+  - first:
+      213: 2843313158582633171
+    second: Flowey Battle_262
+  - first:
+      213: 2479099306826349187
+    second: Flowey Battle_263
+  - first:
+      213: -3822321055768466448
+    second: Flowey Battle_264
+  - first:
+      213: -929765592487941980
+    second: Flowey Battle_265
+  - first:
+      213: 4171762914873795414
+    second: Flowey Battle_266
+  - first:
+      213: 3956220954195046765
+    second: Flowey Battle_267
+  - first:
+      213: -2974845039612060020
+    second: Flowey Battle_268
+  - first:
+      213: 6285067666336512910
+    second: Flowey Battle_269
+  - first:
+      213: 2361669917447847105
+    second: Flowey Battle_270
+  - first:
+      213: -6497999881086567380
+    second: Flowey Battle_271
+  - first:
+      213: -1802654446915326168
+    second: Flowey Battle_272
+  - first:
+      213: 748535875134273887
+    second: Flowey Battle_273
+  - first:
+      213: -5807154540654083276
+    second: Flowey Battle_274
+  - first:
+      213: -385537880556660662
+    second: Flowey Battle_275
+  - first:
+      213: -6048644565542204310
+    second: Flowey Battle_276
+  - first:
+      213: 1145255631027692921
+    second: Flowey Battle_277
+  - first:
+      213: -2534533024896109439
+    second: Flowey Battle_278
+  - first:
+      213: -4350112187306452635
+    second: Flowey Battle_279
+  - first:
+      213: 3757130840667730013
+    second: Flowey Battle_280
+  - first:
+      213: 1083642140575959209
+    second: Flowey Battle_281
+  - first:
+      213: -2840686029279657312
+    second: Flowey Battle_282
+  - first:
+      213: 5280680078063197987
+    second: Flowey Battle_283
+  - first:
+      213: 5276497508021367662
+    second: Flowey Battle_284
+  - first:
+      213: -1320808991423240080
+    second: Flowey Battle_285
+  - first:
+      213: 1865884124892683072
+    second: Flowey Battle_286
+  - first:
+      213: -2439269915533416861
+    second: Flowey Battle_287
+  - first:
+      213: 4821702369891937052
+    second: Flowey Battle_288
+  - first:
+      213: 6190334194953018991
+    second: Flowey Battle_289
+  - first:
+      213: 306041883965242890
+    second: Flowey Battle_290
+  - first:
+      213: 6002603293049477434
+    second: Flowey Battle_291
+  - first:
+      213: -7907582708250837289
+    second: Flowey Battle_292
+  - first:
+      213: 7167661175269503055
+    second: Flowey Battle_293
+  - first:
+      213: 8585484475774905155
+    second: Flowey Battle_294
+  - first:
+      213: -4980991631195883508
+    second: Flowey Battle_295
+  - first:
+      213: 1880287798635600204
+    second: Flowey Battle_296
+  - first:
+      213: -2859673504783070356
+    second: Flowey Battle_297
+  - first:
+      213: 5153103674379958740
+    second: Flowey Battle_298
+  - first:
+      213: 2925281796585611597
+    second: Flowey Battle_299
+  - first:
+      213: 651025178161942017
+    second: Flowey Battle_300
+  - first:
+      213: 4078712719575228389
+    second: Flowey Battle_301
+  - first:
+      213: -1787076389998427952
+    second: Flowey Battle_302
+  - first:
+      213: -9219300213187901552
+    second: Flowey Battle_303
+  - first:
+      213: -218868771669313568
+    second: Flowey Battle_304
+  - first:
+      213: -5564434639515860397
+    second: Flowey Battle_305
+  - first:
+      213: 6847793209654163772
+    second: Flowey Battle_306
+  - first:
+      213: -4671476444197833863
+    second: Flowey Battle_307
+  - first:
+      213: 4305840880851553656
+    second: Flowey Battle_308
+  - first:
+      213: -7336915691860311558
+    second: Flowey Battle_309
+  - first:
+      213: 4081030954314340972
+    second: Flowey Battle_310
+  - first:
+      213: 6295682501093525551
+    second: Flowey Battle_311
+  - first:
+      213: -8468815029573867006
+    second: Flowey Battle_312
+  - first:
+      213: -552590062219783088
+    second: Flowey Battle_313
+  - first:
+      213: 5809003848825579768
+    second: Flowey Battle_314
+  - first:
+      213: 7328138447775970320
+    second: Flowey Battle_315
+  - first:
+      213: 1874677451265821030
+    second: Flowey Battle_316
+  - first:
+      213: 8899732098585052322
+    second: Flowey Battle_317
+  - first:
+      213: 2555413787037088225
+    second: Flowey Battle_318
+  - first:
+      213: 6024671793640120582
+    second: Flowey Battle_319
+  - first:
+      213: -1010222795965171491
+    second: Flowey Battle_320
+  - first:
+      213: -5496739864714148520
+    second: Flowey Battle_321
+  - first:
+      213: -4800587630624879430
+    second: Flowey Battle_322
+  - first:
+      213: -78155649300886303
+    second: Flowey Battle_323
+  - first:
+      213: 1282243122555875266
+    second: Flowey Battle_324
+  - first:
+      213: 6279857619422762009
+    second: Flowey Battle_325
+  - first:
+      213: -7590738272462259087
+    second: Flowey Battle_326
+  - first:
+      213: -3772400323957009954
+    second: Flowey Battle_327
+  - first:
+      213: -6889007899929605082
+    second: Flowey Battle_328
+  - first:
+      213: -3549547158211142905
+    second: Flowey Battle_329
+  - first:
+      213: 2434254822829553766
+    second: Flowey Battle_330
+  - first:
+      213: -2422306815635759816
+    second: Flowey Battle_331
+  - first:
+      213: 8310898101559056280
+    second: Flowey Battle_332
+  - first:
+      213: -2627706051919280012
+    second: Flowey Battle_333
+  - first:
+      213: 1031600065924317037
+    second: Flowey Battle_334
+  - first:
+      213: 4073129083340996918
+    second: Flowey Battle_335
+  - first:
+      213: 4080538545785918906
+    second: Flowey Battle_336
+  - first:
+      213: 5621954392630913563
+    second: Flowey Battle_337
+  - first:
+      213: 6436236918142448940
+    second: Flowey Battle_338
+  - first:
+      213: -1029764483891097102
+    second: Flowey Battle_339
+  - first:
+      213: 4117568517676432442
+    second: Flowey Battle_340
+  - first:
+      213: -3377204513654020826
+    second: Flowey Battle_341
+  - first:
+      213: -1036782584219631137
+    second: Flowey Battle_342
+  - first:
+      213: -4820987006158241588
+    second: Flowey Battle_343
+  - first:
+      213: 4190976425837399237
+    second: Flowey Battle_344
+  - first:
+      213: 3018831211285879240
+    second: Flowey Battle_345
+  - first:
+      213: 2090547397025438065
+    second: Flowey Battle_346
+  - first:
+      213: 3240295081653654899
+    second: Flowey Battle_347
+  - first:
+      213: 1357172949970104169
+    second: Flowey Battle_348
+  - first:
+      213: 1994023133827906878
+    second: Flowey Battle_349
+  - first:
+      213: -7396482862821798506
+    second: Flowey Battle_350
+  - first:
+      213: -2637449818006296416
+    second: Flowey Battle_351
+  - first:
+      213: 7598721022122763748
+    second: Flowey Battle_352
+  - first:
+      213: -3339597093820179654
+    second: Flowey Battle_353
+  - first:
+      213: 2729309484172481465
+    second: Flowey Battle_354
+  - first:
+      213: -241225115539924799
+    second: Flowey Battle_355
+  - first:
+      213: 1893161526426788591
+    second: Flowey Battle_356
+  - first:
+      213: -546646168832172396
+    second: Flowey Battle_357
+  - first:
+      213: -89535420784204402
+    second: Flowey Battle_358
+  - first:
+      213: 8122365509438925875
+    second: Flowey Battle_359
+  - first:
+      213: 9054574311188215143
+    second: Flowey Battle_360
+  - first:
+      213: 8464874278289772174
+    second: Flowey Battle_361
+  - first:
+      213: -2752868707671606835
+    second: Flowey Battle_362
+  - first:
+      213: -5698888460082498857
+    second: Flowey Battle_363
+  - first:
+      213: 7422665893614997718
+    second: Flowey Battle_364
+  - first:
+      213: 9135554771555177524
+    second: Flowey Battle_365
+  - first:
+      213: -3037819578871481513
+    second: Flowey Battle_366
+  - first:
+      213: 2642275607118628219
+    second: Flowey Battle_367
+  - first:
+      213: 3367781183571166137
+    second: Flowey Battle_368
+  - first:
+      213: 6441305369124137770
+    second: Flowey Battle_369
+  - first:
+      213: 2324906151767729248
+    second: Flowey Battle_370
+  - first:
+      213: -5349195056068482291
+    second: Flowey Battle_371
+  - first:
+      213: 1289524433733465605
+    second: Flowey Battle_372
+  - first:
+      213: 485006437205994122
+    second: Flowey Battle_373
+  - first:
+      213: -8747468416990229648
+    second: Flowey Battle_374
+  - first:
+      213: 8089666711678054481
+    second: Flowey Battle_375
+  - first:
+      213: -4157685413310414894
+    second: Flowey Battle_376
+  - first:
+      213: 1824806902271048800
+    second: Flowey Battle_377
+  - first:
+      213: -4125323797556341973
+    second: Flowey Battle_378
+  - first:
+      213: -2728595429486177867
+    second: Flowey Battle_379
+  - first:
+      213: 6301251068238168825
+    second: Flowey Battle_380
+  - first:
+      213: 2551252504147699092
+    second: Flowey Battle_381
+  - first:
+      213: 1022608582063458549
+    second: Flowey Battle_382
+  - first:
+      213: 775254515912748487
+    second: Flowey Battle_383
+  - first:
+      213: -961365639042498668
+    second: Flowey Battle_384
+  - first:
+      213: -6413162361586363190
+    second: Flowey Battle_385
+  - first:
+      213: 2610989399740248345
+    second: Flowey Battle_386
+  - first:
+      213: 825772355111957813
+    second: Flowey Battle_387
+  - first:
+      213: -7128143366062490987
+    second: Flowey Battle_388
+  - first:
+      213: 8352527520937911344
+    second: Flowey Battle_389
+  - first:
+      213: 5080658299294237244
+    second: Flowey Battle_390
+  - first:
+      213: -75321859074257046
+    second: Flowey Battle_391
+  - first:
+      213: -8902420301267971389
+    second: Flowey Battle_392
+  - first:
+      213: -8762937510418444074
+    second: Flowey Battle_393
+  - first:
+      213: -5588181647077203030
+    second: Flowey Battle_394
+  - first:
+      213: 6580156025867524419
+    second: Flowey Battle_395
+  - first:
+      213: -4603177655146664635
+    second: Flowey Battle_396
+  - first:
+      213: -6241534603462020304
+    second: Flowey Battle_397
+  - first:
+      213: -1361815051740126377
+    second: Flowey Battle_398
+  - first:
+      213: 1896506798585007764
+    second: Flowey Battle_399
+  - first:
+      213: -6131333226072545651
+    second: Flowey Battle_400
+  - first:
+      213: 5900937694667441461
+    second: Flowey Battle_401
+  - first:
+      213: -1305761787998024177
+    second: Flowey Battle_402
+  - first:
+      213: 6386697430571108927
+    second: Flowey Battle_403
+  - first:
+      213: 4282173460623194557
+    second: Flowey Battle_404
+  - first:
+      213: -1191104910857790048
+    second: Flowey Battle_405
+  - first:
+      213: -3829544498974327120
+    second: Flowey Battle_406
+  - first:
+      213: 2721611934260542163
+    second: Flowey Battle_407
+  - first:
+      213: 3295743598949127114
+    second: Flowey Battle_408
+  - first:
+      213: 2237394600971630810
+    second: Flowey Battle_409
+  - first:
+      213: -6833810008152257149
+    second: Flowey Battle_410
+  - first:
+      213: -6674712207984451804
+    second: Flowey Battle_411
+  - first:
+      213: -8926135996192560358
+    second: Flowey Battle_412
+  - first:
+      213: 8213862791392989227
+    second: Flowey Battle_413
+  - first:
+      213: 8612591369398839741
+    second: Flowey Battle_414
+  - first:
+      213: 1816654835054814191
+    second: Flowey Battle_415
+  - first:
+      213: -2712341259543189714
+    second: Flowey Battle_416
+  - first:
+      213: -7679670301235452953
+    second: Flowey Battle_417
+  - first:
+      213: 4004036773596999659
+    second: Flowey Battle_418
+  - first:
+      213: -4948377444347905679
+    second: Flowey Battle_419
+  - first:
+      213: -1197327023262800162
+    second: Flowey Battle_420
+  - first:
+      213: -2943412628695427312
+    second: Flowey Battle_421
+  - first:
+      213: 2009202305340913441
+    second: Flowey Battle_422
+  - first:
+      213: -8668454927710124227
+    second: Flowey Battle_423
+  - first:
+      213: 5528160774621986221
+    second: Flowey Battle_424
+  - first:
+      213: -3098106396790406402
+    second: Flowey Battle_425
+  - first:
+      213: 604088067320813780
+    second: Flowey Battle_426
+  - first:
+      213: 576443072298980660
+    second: Flowey Battle_427
+  - first:
+      213: 5176702851099629996
+    second: Flowey Battle_428
+  - first:
+      213: -3207456804139402970
+    second: Flowey Battle_429
+  - first:
+      213: 7256691035730488995
+    second: Flowey Battle_430
+  - first:
+      213: -8872222244286650242
+    second: Flowey Battle_431
+  - first:
+      213: -3370569174598041809
+    second: Flowey Battle_432
+  - first:
+      213: 7054746755145787796
+    second: Flowey Battle_433
+  - first:
+      213: 6534128220965428739
+    second: Flowey Battle_434
+  - first:
+      213: -7404949443237203241
+    second: Flowey Battle_435
+  - first:
+      213: 2152335163748556854
+    second: Flowey Battle_436
+  - first:
+      213: 6514778166120323654
+    second: Flowey Battle_437
+  - first:
+      213: -1180951232480330895
+    second: Flowey Battle_438
+  - first:
+      213: 7440795919121064522
+    second: Flowey Battle_439
+  - first:
+      213: 5748979905239789908
+    second: Flowey Battle_440
+  - first:
+      213: -1728978842500762503
+    second: Flowey Battle_441
+  - first:
+      213: 4002613463248902722
+    second: Flowey Battle_442
+  - first:
+      213: 5745324496942021514
+    second: Flowey Battle_443
+  - first:
+      213: -4590987184874329604
+    second: Flowey Battle_444
+  - first:
+      213: 1751958494400580995
+    second: Flowey Battle_445
+  - first:
+      213: 6893587607478180951
+    second: Flowey Battle_446
+  - first:
+      213: -8556674853701048758
+    second: Flowey Battle_447
+  - first:
+      213: 579730503056054956
+    second: Flowey Battle_448
+  - first:
+      213: 731563311769435343
+    second: Flowey Battle_449
+  - first:
+      213: -3261601725165756329
+    second: Flowey Battle_450
+  - first:
+      213: 114629840681905595
+    second: Flowey Battle_451
+  - first:
+      213: 6469576746504902958
+    second: Flowey Battle_452
+  - first:
+      213: -6547634104794244575
+    second: Flowey Battle_453
+  - first:
+      213: -8337187137414337451
+    second: Flowey Battle_454
+  - first:
+      213: 7222754148225310509
+    second: Flowey Battle_455
+  - first:
+      213: -7755187026169788040
+    second: Flowey Battle_456
+  - first:
+      213: -4577058696476909346
+    second: Flowey Battle_457
+  - first:
+      213: 5870550208276359853
+    second: Flowey Battle_458
+  - first:
+      213: -9176830080872424073
+    second: Flowey Battle_459
+  - first:
+      213: 2394570681266562453
+    second: Flowey Battle_460
+  - first:
+      213: 742691070463066138
+    second: Flowey Battle_461
+  - first:
+      213: -3787152865199620698
+    second: Flowey Battle_462
+  - first:
+      213: -8709093341148242779
+    second: Flowey Battle_463
+  - first:
+      213: -1181368859440806271
+    second: Flowey Battle_464
+  - first:
+      213: 1245711596835719299
+    second: Flowey Battle_465
+  - first:
+      213: 5717579539760104246
+    second: Flowey Battle_466
+  - first:
+      213: 3080699819749457485
+    second: Flowey Battle_467
+  - first:
+      213: 2295596391754803817
+    second: Flowey Battle_468
+  - first:
+      213: -7127723657227774975
+    second: Flowey Battle_469
+  - first:
+      213: -5543149230215230817
+    second: Flowey Battle_470
+  - first:
+      213: -8036307674493932754
+    second: Flowey Battle_471
+  - first:
+      213: -1581717349535382571
+    second: Flowey Battle_472
+  - first:
+      213: -4892085093324421896
+    second: Flowey Battle_473
+  - first:
+      213: -832373477186110367
+    second: Flowey Battle_474
+  - first:
+      213: 9000111075682992248
+    second: Flowey Battle_475
+  - first:
+      213: 8877295514000284012
+    second: Flowey Battle_476
+  - first:
+      213: -1835438101395628719
+    second: Flowey Battle_477
+  - first:
+      213: 8928678144962191523
+    second: Flowey Battle_478
+  - first:
+      213: -6120560211517752395
+    second: Flowey Battle_479
+  - first:
+      213: -3448270200407894762
+    second: Flowey Battle_480
+  - first:
+      213: 6290921085432654980
+    second: Flowey Battle_481
+  - first:
+      213: 2140123991564867602
+    second: Flowey Battle_482
+  - first:
+      213: -5241958860054368540
+    second: Flowey Battle_483
+  - first:
+      213: 4179302061000430575
+    second: Flowey Battle_484
+  - first:
+      213: 8460851149123378440
+    second: Flowey Battle_485
+  - first:
+      213: 3757579725226543005
+    second: Flowey Battle_486
+  - first:
+      213: 8015658778378976826
+    second: Flowey Battle_487
+  - first:
+      213: -788831935595799649
+    second: Flowey Battle_488
+  - first:
+      213: 7433079785543116626
+    second: Flowey Battle_489
+  - first:
+      213: -8511660509142447337
+    second: Flowey Battle_490
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flowey Battle_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1063
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcf4eb9cab8f07b0800000000000000
+      internalID: -5255828666651968333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1063
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90aaf0eca20fdf8e0800000000000000
+      internalID: -1657905021166048759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1536
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7491349ce2f1d3a50800000000000000
+      internalID: 6502387722798438727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_28
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1536
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113614d5717c189a0800000000000000
+      internalID: -6232481506141314287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_29
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1536
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b803739f78b193f0800000000000000
+      internalID: -895731992795871055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1569
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fbcde38b5a27c50800000000000000
+      internalID: 6661569009581604744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_31
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1569
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6977a32be9e82cec0800000000000000
+      internalID: -3548116744168376426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_32
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1566
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156b70aa9dd3bc3a0800000000000000
+      internalID: -6644148820185205167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_33
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1571
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa16420e24948c5f0800000000000000
+      internalID: -736257987497926230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_34
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1568
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b051ffcaa0f29ab0800000000000000
+      internalID: -5002671619631394637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1469
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2371d93b1855e050800000000000000
+      internalID: 5829162166658364207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_59
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1469
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f4c80eb803c28d00800000000000000
+      internalID: 973554911780848886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_60
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1469
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751c6bc05b0216b90800000000000000
+      internalID: -7250477963115314857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_61
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1469
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0233b69a75022f0800000000000000
+      internalID: -999702732116647684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1469
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea9e2dee9b0c9880800000000000000
+      internalID: -8602988410972497184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_63
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1469
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6097f5fe741c9a0800000000000000
+      internalID: -6214606917370050828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1402
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2b20f73066fe680800000000000000
+      internalID: -8723641787991543068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_76
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1402
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf868bf6a65d7dbb0800000000000000
+      internalID: -4911222215506630404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_77
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1402
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9bd412871e5b780800000000000000
+      internalID: -8667774001733584453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_78
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1402
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed75fc4f3b692110800000000000000
+      internalID: 1236637492308180448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_92
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1335
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bbba9acc70701c0800000000000000
+      internalID: -4537649523951158475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_93
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1335
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e47aa198db19acb0800000000000000
+      internalID: -4852316506544245533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_94
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1335
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c26a80eff15a9720800000000000000
+      internalID: 2853683473318306505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_95
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1335
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b8cf38340659c40800000000000000
+      internalID: 5518422761505852183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1335
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a94561dd9cedef80800000000000000
+      internalID: -8075538394238334552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_97
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1335
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f25e2dbae6a98e70800000000000000
+      internalID: 9118002447714767604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_102
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1268
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0dcc57c59072f580800000000000000
+      internalID: -8794843333703971571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_115
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1201
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48513932d7005390800000000000000
+      internalID: -7831751152513230772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_116
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1201
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7baf949d26f6d2400800000000000000
+      internalID: 301019220446673591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_117
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1201
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657a7da5490bccc00800000000000000
+      internalID: 922306174929839958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_118
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1201
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0825ac6dcd8b50c10800000000000000
+      internalID: 2019223266581435008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_124
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1134
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19471f430f8500950800000000000000
+      internalID: 6413223658079220881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_125
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1134
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe5d7e5a3df10bf0800000000000000
+      internalID: -359728068077723973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_166
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1063
+        width: 36
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659169055e5bb8b00800000000000000
+      internalID: 831958552684140886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_190
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 990
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2166b287e3ce8d0800000000000000
+      internalID: -2815806981168295253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_191
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 990
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1136b467dd3c5d1d0800000000000000
+      internalID: -3326537393803402479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_192
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 990
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5410e5631662ec2e0800000000000000
+      internalID: -2103701776969629371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_193
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 991
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9ab5b7da0ab3f00800000000000000
+      internalID: 1097647601154238919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_195
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 991
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5a24ac899030240800000000000000
+      internalID: 4756656183266420158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_197
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 990
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a875426671c7df70800000000000000
+      internalID: 9212044277008660643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_198
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 990
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2b7f02cf5e78d00800000000000000
+      internalID: 975000715396625132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_199
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 990
+        width: 38
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e995410c715e16080800000000000000
+      internalID: -9195817073944274530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_200
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 990
+        width: 43
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81460a0b62d9a0a80800000000000000
+      internalID: -8499808557210770408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_220
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 923
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b279d33db058680800000000000000
+      internalID: -8753577298825368710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_221
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 922
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d698728a832a390800000000000000
+      internalID: -7808616509038039667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_222
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 922
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a656d561000d2670800000000000000
+      internalID: 8515462476430988964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_223
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 922
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1913b45e3bda986a0800000000000000
+      internalID: -6446430403446492783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_224
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 922
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6064b3161524a9fc0800000000000000
+      internalID: -3487402044153969146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_225
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 872
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d81365ee6c029fa0800000000000000
+      internalID: -5795556100037994279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_226
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 872
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 291f38eb59a9a7760800000000000000
+      internalID: 7456442101002400146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_248
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 795
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17412e20658ea8d0800000000000000
+      internalID: -2833180467432175846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_267
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 718
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61b0c33ff157e630800000000000000
+      internalID: 3956220954195046765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_268
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 718
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e1718a23a37b6d0800000000000000
+      internalID: -2974845039612060020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_269
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 718
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bf7492ebb093750800000000000000
+      internalID: 6285067666336512910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_270
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 718
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc743af64656c020800000000000000
+      internalID: 2361669917447847105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_271
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 718
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cfd49398772d5a0800000000000000
+      internalID: -6497999881086567380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_272
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 718
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f65d6d45fabf6e0800000000000000
+      internalID: -1802654446915326168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_273
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 718
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59b30b9965536a00800000000000000
+      internalID: 748535875134273887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_274
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 659
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433448086b7d86fa0800000000000000
+      internalID: -5807154540654083276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_275
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 659
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4896fd175b46aaf0800000000000000
+      internalID: -385537880556660662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_276
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 659
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c824290d5ee0ca0800000000000000
+      internalID: -6048644565542204310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_277
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 659
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975eb68bde3c4ef00800000000000000
+      internalID: 1145255631027692921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_278
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 659
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184329374a783dcd0800000000000000
+      internalID: -2534533024896109439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_279
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 659
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5695086730c41a3c0800000000000000
+      internalID: -4350112187306452635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_280
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 659
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d503aace792042430800000000000000
+      internalID: 3757130840667730013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_299
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 582
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41e6619b40b89820800000000000000
+      internalID: 2925281796585611597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_300
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 582
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e8d2443f7e80900800000000000000
+      internalID: 651025178161942017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_301
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 523
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef1627cb9f7a9830800000000000000
+      internalID: 4078712719575228389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_302
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 523
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d008abdd770337e0800000000000000
+      internalID: -1787076389998427952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_303
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 523
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09780435d477e0080800000000000000
+      internalID: -9219300213187901552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_304
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 523
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e77934030c66fcf0800000000000000
+      internalID: -218868771669313568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_305
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 523
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35247cf4d2827c2b0800000000000000
+      internalID: -5564434639515860397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_306
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 523
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39b4cc94af380f50800000000000000
+      internalID: 6847793209654163772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_307
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 523
+        width: 46
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973bbfeace49b2fb0800000000000000
+      internalID: -4671476444197833863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_322
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 456
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc487b0cf2e06db0800000000000000
+      internalID: -4800587630624879430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_323
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 456
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec0b3ed9d55aeef0800000000000000
+      internalID: -78155649300886303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_324
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 456
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf61ab83517bc110800000000000000
+      internalID: 1282243122555875266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_325
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 456
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91459b59b39862750800000000000000
+      internalID: 6279857619422762009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_326
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 456
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17cbce632c748a690800000000000000
+      internalID: -7590738272462259087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_327
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 456
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed159f374edb5abc0800000000000000
+      internalID: -3772400323957009954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_328
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 456
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c06d580d35560a0800000000000000
+      internalID: -6889007899929605082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_329
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 456
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bd3597aa97dbec0800000000000000
+      internalID: -3549547158211142905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_341
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 407
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6256ec55362c121d0800000000000000
+      internalID: -3377204513654020826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_342
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 407
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd107469bbb9c91f0800000000000000
+      internalID: -1036782584219631137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_343
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 407
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc00a2f4cd9681db0800000000000000
+      internalID: -4820987006158241588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_344
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 407
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc0314cad6592a30800000000000000
+      internalID: 4190976425837399237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_345
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 404
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c99e810efa05e920800000000000000
+      internalID: 3018831211285879240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_346
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 407
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17991d908cd130d10800000000000000
+      internalID: 2090547397025438065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_362
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 355
+        width: 45
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9f1f5ee78dbc9d0800000000000000
+      internalID: -2752868707671606835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_363
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 353
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2b53ab32b79e0b0800000000000000
+      internalID: -5698888460082498857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_364
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 352
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d05453ad4b920760800000000000000
+      internalID: 7422665893614997718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_365
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 352
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434dba899a208ce70800000000000000
+      internalID: 9135554771555177524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_366
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 352
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b73a5203f77d5d0800000000000000
+      internalID: -3037819578871481513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_367
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 352
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b754cf05aaf3ba420800000000000000
+      internalID: 2642275607118628219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_368
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 353
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b30108a423ccbe20800000000000000
+      internalID: 3367781183571166137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_369
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 355
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2be5701b1d146950800000000000000
+      internalID: 6441305369124137770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_370
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 319
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0646c30c3d9b34020800000000000000
+      internalID: 2324906151767729248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_371
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 319
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b23c01077d3c5b0800000000000000
+      internalID: -5349195056068482291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_372
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 319
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506bed9e3af45e110800000000000000
+      internalID: 1289524433733465605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_373
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 319
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ae073f8c61bb600800000000000000
+      internalID: 485006437205994122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_374
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 319
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b495122dfba9680800000000000000
+      internalID: -8747468416990229648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_375
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 319
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1507fdc6305444070800000000000000
+      internalID: 8089666711678054481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_376
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 319
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df3fcb152fec46c0800000000000000
+      internalID: -4157685413310414894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_377
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 319
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cfb899534035910800000000000000
+      internalID: 1824806902271048800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_378
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 319
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23503fecd7efb6c0800000000000000
+      internalID: -4125323797556341973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_379
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 319
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1d8b1e9e4122ad0800000000000000
+      internalID: -2728595429486177867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_380
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 281
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f203ea067a827750800000000000000
+      internalID: 6301251068238168825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_381
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 281
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495ac0aa2aed76320800000000000000
+      internalID: 2551252504147699092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_382
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 281
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8882e5619013e00800000000000000
+      internalID: 1022608582063458549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_383
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 276
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd2f7fefd142ca00800000000000000
+      internalID: 775254515912748487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_384
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 288
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ffa997b0b88a2f0800000000000000
+      internalID: -961365639042498668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_385
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 286
+        width: 43
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac45dbe7fcedff6a0800000000000000
+      internalID: -6413162361586363190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_399
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 227
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ec5cb92eeb15a10800000000000000
+      internalID: 1896506798585007764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_400
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 227
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8665648ae029eaa0800000000000000
+      internalID: -6131333226072545651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_401
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 227
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5358d5c919754e150800000000000000
+      internalID: 5900937694667441461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_402
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 227
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e4911729001ede0800000000000000
+      internalID: -1305761787998024177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_403
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 227
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3a4715997b12a850800000000000000
+      internalID: 6386697430571108927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_404
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 227
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9fc0313165d6b30800000000000000
+      internalID: 4282173460623194557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_405
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 227
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad1912f468587fe0800000000000000
+      internalID: -1191104910857790048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_406
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 227
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be75176199badac0800000000000000
+      internalID: -3829544498974327120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_407
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 227
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da301e62ab15c520800000000000000
+      internalID: 2721611934260542163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_408
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 227
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac351267755dcbd20800000000000000
+      internalID: 3295743598949127114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_421
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 175
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017d53f1fc5e627d0800000000000000
+      internalID: -2943412628695427312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_422
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 175
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127bdbbf9de12eb10800000000000000
+      internalID: 2009202305340913441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_423
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 178
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d378a52bb2673b780800000000000000
+      internalID: -8668454927710124227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_424
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 178
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad77906fe8f7bc40800000000000000
+      internalID: 5528160774621986221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_425
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 178
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef241f685a05105d0800000000000000
+      internalID: -3098106396790406402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_426
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 178
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d895b985e6226800800000000000000
+      internalID: 604088067320813780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_447
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 121
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a46a1a64e85904980800000000000000
+      internalID: -8556674853701048758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_448
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 120
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa5d1c22dd9b0800800000000000000
+      internalID: 579730503056054956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_449
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 124
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccb9b0c4f8072a00800000000000000
+      internalID: 731563311769435343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_450
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 124
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750a1bcf2867cb2d0800000000000000
+      internalID: -3261601725165756329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_451
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 124
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd21869b3f379100800000000000000
+      internalID: 114629840681905595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_452
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 124
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e295d8e06cd88c950800000000000000
+      internalID: 6469576746504902958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_453
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 124
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a9188f8712225a0800000000000000
+      internalID: -6547634104794244575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_466
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 70
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63341726c4ce85f40800000000000000
+      internalID: 5717579539760104246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_467
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 70
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eb6cfe928d0ca20800000000000000
+      internalID: 3080699819749457485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_468
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 70
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aa63671c89bdf10800000000000000
+      internalID: 2295596391754803817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_469
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 70
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1045ac9191d351d90800000000000000
+      internalID: -7127723657227774975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_470
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 70
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a8a0cd427c213b0800000000000000
+      internalID: -5543149230215230817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_471
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 70
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b2b0c8fbc497090800000000000000
+      internalID: -8036307674493932754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_484
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe31df2e41ddff930800000000000000
+      internalID: 4179302061000430575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_485
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 4
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d54f8ea4bfa6570800000000000000
+      internalID: 8460851149123378440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_486
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 4
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9786510ada952430800000000000000
+      internalID: 3757579725226543005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_487
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e350ea0375d3f60800000000000000
+      internalID: 8015658778378976826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_488
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 4
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b1453b8818d05f0800000000000000
+      internalID: -788831935595799649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_489
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 23
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2572f6cceaa972760800000000000000
+      internalID: 7433079785543116626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_490
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 23
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b08d71dd180e980800000000000000
+      internalID: -8511660509142447337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_2
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1063
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe792b57b68ae044092f5d16d57cb77f
+      internalID: -4607611009923880345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1061
+        width: 41
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fa531908cc4d249bef58b4538e0db9
+      internalID: 4255277157923338868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 1063
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255bdca17041a6f4caceb9568c65a21e
+      internalID: 5321995649103134136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1063
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc54163cc139c0419abb445ece8ff4e
+      internalID: 7843385315824702596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1064
+        width: 41
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b3e6b0013b3ba4785bfd8b84121289
+      internalID: -3074272166047317218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flowey Battle_7
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 1064
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b096d8b433c832b48bb0f81c1ffdcc0a
+      internalID: -5689578369186004215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 337dd136b24d4254fa57532be3f83304
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flowey Battle_0: -5255828666651968333
+      Flowey Battle_1: -1657905021166048759
+      Flowey Battle_10: -8302511638368157132
+      Flowey Battle_100: -791424342177254556
+      Flowey Battle_101: -2804610488995757711
+      Flowey Battle_102: -8794843333703971571
+      Flowey Battle_103: 3743337650684536672
+      Flowey Battle_104: -7780361504221665440
+      Flowey Battle_105: -7018297765383152974
+      Flowey Battle_106: 4028979956342223308
+      Flowey Battle_107: 148053059102927334
+      Flowey Battle_108: -3154265300171535675
+      Flowey Battle_109: 7608737002186791095
+      Flowey Battle_11: -4095206777217304899
+      Flowey Battle_110: -823235995296538020
+      Flowey Battle_111: -6248397228861370067
+      Flowey Battle_112: -1253016300461014425
+      Flowey Battle_113: -1511161564431281262
+      Flowey Battle_114: -6377831049500739549
+      Flowey Battle_115: -7831751152513230772
+      Flowey Battle_116: 301019220446673591
+      Flowey Battle_117: 922306174929839958
+      Flowey Battle_118: 2019223266581435008
+      Flowey Battle_119: 8877487830061925222
+      Flowey Battle_12: 424417224233469109
+      Flowey Battle_120: 3015702468259039862
+      Flowey Battle_121: -4767169072654715379
+      Flowey Battle_122: -5652415599668253564
+      Flowey Battle_123: -8763772677358647892
+      Flowey Battle_124: 6413223658079220881
+      Flowey Battle_125: -359728068077723973
+      Flowey Battle_126: -653760310963266324
+      Flowey Battle_127: -9103517268151430636
+      Flowey Battle_128: -1405747522814291519
+      Flowey Battle_129: 1228534518349055855
+      Flowey Battle_13: -9038638210632954843
+      Flowey Battle_130: -2772962703983808823
+      Flowey Battle_131: -6800118404226416511
+      Flowey Battle_132: -2396055011811152799
+      Flowey Battle_133: 1113772567768481858
+      Flowey Battle_134: 8894896598115089598
+      Flowey Battle_135: -4943693101840994067
+      Flowey Battle_136: 8944880615549614000
+      Flowey Battle_137: 2902329865167847312
+      Flowey Battle_138: -1950372191334225385
+      Flowey Battle_139: 4574446442347484087
+      Flowey Battle_14: -6825537549118970061
+      Flowey Battle_140: -4451281176531077233
+      Flowey Battle_141: -2876494979160716808
+      Flowey Battle_142: -1717209574706133523
+      Flowey Battle_143: -3111283603274429302
+      Flowey Battle_144: 7347818834406185984
+      Flowey Battle_145: -9046501046937736983
+      Flowey Battle_146: -3735729724727454766
+      Flowey Battle_147: -6544144757846586137
+      Flowey Battle_148: -8431606719218732119
+      Flowey Battle_149: -5044377494181621639
+      Flowey Battle_15: 2482240757743300326
+      Flowey Battle_150: 8324176351731349893
+      Flowey Battle_151: 4996182521619285752
+      Flowey Battle_152: 3578594576841380450
+      Flowey Battle_153: 8976520977597719741
+      Flowey Battle_154: -7671854988350003346
+      Flowey Battle_155: -2115419307980862191
+      Flowey Battle_156: -8786384882474205251
+      Flowey Battle_157: -2575487171483050795
+      Flowey Battle_158: 6079013773143904874
+      Flowey Battle_159: -6032563296418426087
+      Flowey Battle_16: 8704610200013470572
+      Flowey Battle_160: -2712900333475965907
+      Flowey Battle_161: 7950827169552416609
+      Flowey Battle_162: 2102161916384216134
+      Flowey Battle_163: -5486444071979747135
+      Flowey Battle_164: 4781503094084522145
+      Flowey Battle_165: 3689055924877981179
+      Flowey Battle_166: 831958552684140886
+      Flowey Battle_167: -6261278260404838335
+      Flowey Battle_168: -2438152100757306149
+      Flowey Battle_169: -1069911944423356702
+      Flowey Battle_17: -5459720948257859498
+      Flowey Battle_170: 8921450931906264000
+      Flowey Battle_171: 7202087005759509049
+      Flowey Battle_172: 6698183752169348462
+      Flowey Battle_173: 1072406261217958297
+      Flowey Battle_174: 4627155905384188080
+      Flowey Battle_175: 7548762805065190882
+      Flowey Battle_176: 8185851697105745593
+      Flowey Battle_177: -334394837671511251
+      Flowey Battle_178: -3995414870843643118
+      Flowey Battle_179: -6826806664513051510
+      Flowey Battle_18: -5785326860592135853
+      Flowey Battle_180: -4634327217227710168
+      Flowey Battle_181: -1059914744268181412
+      Flowey Battle_182: -109103879889416074
+      Flowey Battle_183: 2777954408370008637
+      Flowey Battle_184: 4586822486384176153
+      Flowey Battle_185: -6263089631067661696
+      Flowey Battle_186: -3765190587698382262
+      Flowey Battle_187: -2436554328460767986
+      Flowey Battle_188: 3950875962465350564
+      Flowey Battle_189: -2424336139819081770
+      Flowey Battle_19: 1720334728664380213
+      Flowey Battle_190: -2815806981168295253
+      Flowey Battle_191: -3326537393803402479
+      Flowey Battle_192: -2103701776969629371
+      Flowey Battle_193: 1097647601154238919
+      Flowey Battle_194: 5130123488711970540
+      Flowey Battle_195: 4756656183266420158
+      Flowey Battle_196: 4880676707432723158
+      Flowey Battle_197: 9212044277008660643
+      Flowey Battle_198: 975000715396625132
+      Flowey Battle_199: -9195817073944274530
+      Flowey Battle_2: -4607611009923880345
+      Flowey Battle_20: -7504839861967808535
+      Flowey Battle_200: -8499808557210770408
+      Flowey Battle_201: 4701650356147066977
+      Flowey Battle_202: -2726992061866816127
+      Flowey Battle_203: -7780991132920794045
+      Flowey Battle_204: -8042518941300677268
+      Flowey Battle_205: -1457793755457553080
+      Flowey Battle_206: 1771504801536190207
+      Flowey Battle_207: 7216326592168195064
+      Flowey Battle_208: -5346584684707602190
+      Flowey Battle_209: -8776447707580179051
+      Flowey Battle_21: -3555461468881566686
+      Flowey Battle_210: -365131907387734134
+      Flowey Battle_211: 1301029383980596365
+      Flowey Battle_212: 999026949271832094
+      Flowey Battle_213: 876639188893695269
+      Flowey Battle_214: -1041095807268553698
+      Flowey Battle_215: 7145672029767300213
+      Flowey Battle_216: 2398889966856584198
+      Flowey Battle_217: -1615349355902903908
+      Flowey Battle_218: 5216618446875067333
+      Flowey Battle_219: -1130925399091290235
+      Flowey Battle_22: -6359670307527313991
+      Flowey Battle_220: -8753577298825368710
+      Flowey Battle_221: -7808616509038039667
+      Flowey Battle_222: 8515462476430988964
+      Flowey Battle_223: -6446430403446492783
+      Flowey Battle_224: -3487402044153969146
+      Flowey Battle_225: -5795556100037994279
+      Flowey Battle_226: 7456442101002400146
+      Flowey Battle_227: -3644552024107371210
+      Flowey Battle_228: 1074322570431652145
+      Flowey Battle_229: 5194855266161070936
+      Flowey Battle_23: -7958367110526584808
+      Flowey Battle_230: -4729476290186451328
+      Flowey Battle_231: -8236401927166318397
+      Flowey Battle_232: -4784653530555595899
+      Flowey Battle_233: 6633642122991213532
+      Flowey Battle_234: -6369093955142456669
+      Flowey Battle_235: 3767755858560648740
+      Flowey Battle_236: 7778364735503724180
+      Flowey Battle_237: 7701632510967406459
+      Flowey Battle_238: -4952870284061412264
+      Flowey Battle_239: 5617317775717292226
+      Flowey Battle_24: 4408730922162325412
+      Flowey Battle_240: 963561443075249643
+      Flowey Battle_241: 2811399243040415731
+      Flowey Battle_242: -7119926829723340996
+      Flowey Battle_243: 8544738588930046080
+      Flowey Battle_244: -8332856210904709760
+      Flowey Battle_245: -2399984539393317976
+      Flowey Battle_246: -5634389465930553516
+      Flowey Battle_247: 7126695848462131503
+      Flowey Battle_248: -2833180467432175846
+      Flowey Battle_249: 1024352771909125142
+      Flowey Battle_25: 2466053908940231903
+      Flowey Battle_250: -1802834125095183439
+      Flowey Battle_251: 6050122539186884944
+      Flowey Battle_252: 1052641406075328328
+      Flowey Battle_253: -6350547491224024719
+      Flowey Battle_254: -3708972023584683410
+      Flowey Battle_255: 3541216453761997868
+      Flowey Battle_256: -5106821912928031938
+      Flowey Battle_257: 9007218056267436642
+      Flowey Battle_258: 6669366115226395435
+      Flowey Battle_259: -3729586345077224619
+      Flowey Battle_26: -4682975615254591393
+      Flowey Battle_260: 4076427776375951516
+      Flowey Battle_261: 9101538266276827984
+      Flowey Battle_262: 2843313158582633171
+      Flowey Battle_263: 2479099306826349187
+      Flowey Battle_264: -3822321055768466448
+      Flowey Battle_265: -929765592487941980
+      Flowey Battle_266: 4171762914873795414
+      Flowey Battle_267: 3956220954195046765
+      Flowey Battle_268: -2974845039612060020
+      Flowey Battle_269: 6285067666336512910
+      Flowey Battle_27: 6502387722798438727
+      Flowey Battle_270: 2361669917447847105
+      Flowey Battle_271: -6497999881086567380
+      Flowey Battle_272: -1802654446915326168
+      Flowey Battle_273: 748535875134273887
+      Flowey Battle_274: -5807154540654083276
+      Flowey Battle_275: -385537880556660662
+      Flowey Battle_276: -6048644565542204310
+      Flowey Battle_277: 1145255631027692921
+      Flowey Battle_278: -2534533024896109439
+      Flowey Battle_279: -4350112187306452635
+      Flowey Battle_28: -6232481506141314287
+      Flowey Battle_280: 3757130840667730013
+      Flowey Battle_281: 1083642140575959209
+      Flowey Battle_282: -2840686029279657312
+      Flowey Battle_283: 5280680078063197987
+      Flowey Battle_284: 5276497508021367662
+      Flowey Battle_285: -1320808991423240080
+      Flowey Battle_286: 1865884124892683072
+      Flowey Battle_287: -2439269915533416861
+      Flowey Battle_288: 4821702369891937052
+      Flowey Battle_289: 6190334194953018991
+      Flowey Battle_29: -895731992795871055
+      Flowey Battle_290: 306041883965242890
+      Flowey Battle_291: 6002603293049477434
+      Flowey Battle_292: -7907582708250837289
+      Flowey Battle_293: 7167661175269503055
+      Flowey Battle_294: 8585484475774905155
+      Flowey Battle_295: -4980991631195883508
+      Flowey Battle_296: 1880287798635600204
+      Flowey Battle_297: -2859673504783070356
+      Flowey Battle_298: 5153103674379958740
+      Flowey Battle_299: 2925281796585611597
+      Flowey Battle_3: 4255277157923338868
+      Flowey Battle_30: 6661569009581604744
+      Flowey Battle_300: 651025178161942017
+      Flowey Battle_301: 4078712719575228389
+      Flowey Battle_302: -1787076389998427952
+      Flowey Battle_303: -9219300213187901552
+      Flowey Battle_304: -218868771669313568
+      Flowey Battle_305: -5564434639515860397
+      Flowey Battle_306: 6847793209654163772
+      Flowey Battle_307: -4671476444197833863
+      Flowey Battle_308: 4305840880851553656
+      Flowey Battle_309: -7336915691860311558
+      Flowey Battle_31: -3548116744168376426
+      Flowey Battle_310: 4081030954314340972
+      Flowey Battle_311: 6295682501093525551
+      Flowey Battle_312: -8468815029573867006
+      Flowey Battle_313: -552590062219783088
+      Flowey Battle_314: 5809003848825579768
+      Flowey Battle_315: 7328138447775970320
+      Flowey Battle_316: 1874677451265821030
+      Flowey Battle_317: 8899732098585052322
+      Flowey Battle_318: 2555413787037088225
+      Flowey Battle_319: 6024671793640120582
+      Flowey Battle_32: -6644148820185205167
+      Flowey Battle_320: -1010222795965171491
+      Flowey Battle_321: -5496739864714148520
+      Flowey Battle_322: -4800587630624879430
+      Flowey Battle_323: -78155649300886303
+      Flowey Battle_324: 1282243122555875266
+      Flowey Battle_325: 6279857619422762009
+      Flowey Battle_326: -7590738272462259087
+      Flowey Battle_327: -3772400323957009954
+      Flowey Battle_328: -6889007899929605082
+      Flowey Battle_329: -3549547158211142905
+      Flowey Battle_33: -736257987497926230
+      Flowey Battle_330: 2434254822829553766
+      Flowey Battle_331: -2422306815635759816
+      Flowey Battle_332: 8310898101559056280
+      Flowey Battle_333: -2627706051919280012
+      Flowey Battle_334: 1031600065924317037
+      Flowey Battle_335: 4073129083340996918
+      Flowey Battle_336: 4080538545785918906
+      Flowey Battle_337: 5621954392630913563
+      Flowey Battle_338: 6436236918142448940
+      Flowey Battle_339: -1029764483891097102
+      Flowey Battle_34: -5002671619631394637
+      Flowey Battle_340: 4117568517676432442
+      Flowey Battle_341: -3377204513654020826
+      Flowey Battle_342: -1036782584219631137
+      Flowey Battle_343: -4820987006158241588
+      Flowey Battle_344: 4190976425837399237
+      Flowey Battle_345: 3018831211285879240
+      Flowey Battle_346: 2090547397025438065
+      Flowey Battle_347: 3240295081653654899
+      Flowey Battle_348: 1357172949970104169
+      Flowey Battle_349: 1994023133827906878
+      Flowey Battle_35: -4576900636264941725
+      Flowey Battle_350: -7396482862821798506
+      Flowey Battle_351: -2637449818006296416
+      Flowey Battle_352: 7598721022122763748
+      Flowey Battle_353: -3339597093820179654
+      Flowey Battle_354: 2729309484172481465
+      Flowey Battle_355: -241225115539924799
+      Flowey Battle_356: 1893161526426788591
+      Flowey Battle_357: -546646168832172396
+      Flowey Battle_358: -89535420784204402
+      Flowey Battle_359: 8122365509438925875
+      Flowey Battle_36: -6599926331201233735
+      Flowey Battle_360: 9054574311188215143
+      Flowey Battle_361: 8464874278289772174
+      Flowey Battle_362: -2752868707671606835
+      Flowey Battle_363: -5698888460082498857
+      Flowey Battle_364: 7422665893614997718
+      Flowey Battle_365: 9135554771555177524
+      Flowey Battle_366: -3037819578871481513
+      Flowey Battle_367: 2642275607118628219
+      Flowey Battle_368: 3367781183571166137
+      Flowey Battle_369: 6441305369124137770
+      Flowey Battle_37: 4844944748137642124
+      Flowey Battle_370: 2324906151767729248
+      Flowey Battle_371: -5349195056068482291
+      Flowey Battle_372: 1289524433733465605
+      Flowey Battle_373: 485006437205994122
+      Flowey Battle_374: -8747468416990229648
+      Flowey Battle_375: 8089666711678054481
+      Flowey Battle_376: -4157685413310414894
+      Flowey Battle_377: 1824806902271048800
+      Flowey Battle_378: -4125323797556341973
+      Flowey Battle_379: -2728595429486177867
+      Flowey Battle_38: 5566066743219284504
+      Flowey Battle_380: 6301251068238168825
+      Flowey Battle_381: 2551252504147699092
+      Flowey Battle_382: 1022608582063458549
+      Flowey Battle_383: 775254515912748487
+      Flowey Battle_384: -961365639042498668
+      Flowey Battle_385: -6413162361586363190
+      Flowey Battle_386: 2610989399740248345
+      Flowey Battle_387: 825772355111957813
+      Flowey Battle_388: -7128143366062490987
+      Flowey Battle_389: 8352527520937911344
+      Flowey Battle_39: 601027078962231486
+      Flowey Battle_390: 5080658299294237244
+      Flowey Battle_391: -75321859074257046
+      Flowey Battle_392: -8902420301267971389
+      Flowey Battle_393: -8762937510418444074
+      Flowey Battle_394: -5588181647077203030
+      Flowey Battle_395: 6580156025867524419
+      Flowey Battle_396: -4603177655146664635
+      Flowey Battle_397: -6241534603462020304
+      Flowey Battle_398: -1361815051740126377
+      Flowey Battle_399: 1896506798585007764
+      Flowey Battle_4: 5321995649103134136
+      Flowey Battle_40: 5516659492940469138
+      Flowey Battle_400: -6131333226072545651
+      Flowey Battle_401: 5900937694667441461
+      Flowey Battle_402: -1305761787998024177
+      Flowey Battle_403: 6386697430571108927
+      Flowey Battle_404: 4282173460623194557
+      Flowey Battle_405: -1191104910857790048
+      Flowey Battle_406: -3829544498974327120
+      Flowey Battle_407: 2721611934260542163
+      Flowey Battle_408: 3295743598949127114
+      Flowey Battle_409: 2237394600971630810
+      Flowey Battle_41: 8279033837305416421
+      Flowey Battle_410: -6833810008152257149
+      Flowey Battle_411: -6674712207984451804
+      Flowey Battle_412: -8926135996192560358
+      Flowey Battle_413: 8213862791392989227
+      Flowey Battle_414: 8612591369398839741
+      Flowey Battle_415: 1816654835054814191
+      Flowey Battle_416: -2712341259543189714
+      Flowey Battle_417: -7679670301235452953
+      Flowey Battle_418: 4004036773596999659
+      Flowey Battle_419: -4948377444347905679
+      Flowey Battle_42: 7602120665282587698
+      Flowey Battle_420: -1197327023262800162
+      Flowey Battle_421: -2943412628695427312
+      Flowey Battle_422: 2009202305340913441
+      Flowey Battle_423: -8668454927710124227
+      Flowey Battle_424: 5528160774621986221
+      Flowey Battle_425: -3098106396790406402
+      Flowey Battle_426: 604088067320813780
+      Flowey Battle_427: 576443072298980660
+      Flowey Battle_428: 5176702851099629996
+      Flowey Battle_429: -3207456804139402970
+      Flowey Battle_43: 8311374685912339333
+      Flowey Battle_430: 7256691035730488995
+      Flowey Battle_431: -8872222244286650242
+      Flowey Battle_432: -3370569174598041809
+      Flowey Battle_433: 7054746755145787796
+      Flowey Battle_434: 6534128220965428739
+      Flowey Battle_435: -7404949443237203241
+      Flowey Battle_436: 2152335163748556854
+      Flowey Battle_437: 6514778166120323654
+      Flowey Battle_438: -1180951232480330895
+      Flowey Battle_439: 7440795919121064522
+      Flowey Battle_44: -6964880036719926374
+      Flowey Battle_440: 5748979905239789908
+      Flowey Battle_441: -1728978842500762503
+      Flowey Battle_442: 4002613463248902722
+      Flowey Battle_443: 5745324496942021514
+      Flowey Battle_444: -4590987184874329604
+      Flowey Battle_445: 1751958494400580995
+      Flowey Battle_446: 6893587607478180951
+      Flowey Battle_447: -8556674853701048758
+      Flowey Battle_448: 579730503056054956
+      Flowey Battle_449: 731563311769435343
+      Flowey Battle_45: 8254418970594822890
+      Flowey Battle_450: -3261601725165756329
+      Flowey Battle_451: 114629840681905595
+      Flowey Battle_452: 6469576746504902958
+      Flowey Battle_453: -6547634104794244575
+      Flowey Battle_454: -8337187137414337451
+      Flowey Battle_455: 7222754148225310509
+      Flowey Battle_456: -7755187026169788040
+      Flowey Battle_457: -4577058696476909346
+      Flowey Battle_458: 5870550208276359853
+      Flowey Battle_459: -9176830080872424073
+      Flowey Battle_46: -6900112085430795971
+      Flowey Battle_460: 2394570681266562453
+      Flowey Battle_461: 742691070463066138
+      Flowey Battle_462: -3787152865199620698
+      Flowey Battle_463: -8709093341148242779
+      Flowey Battle_464: -1181368859440806271
+      Flowey Battle_465: 1245711596835719299
+      Flowey Battle_466: 5717579539760104246
+      Flowey Battle_467: 3080699819749457485
+      Flowey Battle_468: 2295596391754803817
+      Flowey Battle_469: -7127723657227774975
+      Flowey Battle_47: -6545341705278130213
+      Flowey Battle_470: -5543149230215230817
+      Flowey Battle_471: -8036307674493932754
+      Flowey Battle_472: -1581717349535382571
+      Flowey Battle_473: -4892085093324421896
+      Flowey Battle_474: -832373477186110367
+      Flowey Battle_475: 9000111075682992248
+      Flowey Battle_476: 8877295514000284012
+      Flowey Battle_477: -1835438101395628719
+      Flowey Battle_478: 8928678144962191523
+      Flowey Battle_479: -6120560211517752395
+      Flowey Battle_48: 3880042983295318980
+      Flowey Battle_480: -3448270200407894762
+      Flowey Battle_481: 6290921085432654980
+      Flowey Battle_482: 2140123991564867602
+      Flowey Battle_483: -5241958860054368540
+      Flowey Battle_484: 4179302061000430575
+      Flowey Battle_485: 8460851149123378440
+      Flowey Battle_486: 3757579725226543005
+      Flowey Battle_487: 8015658778378976826
+      Flowey Battle_488: -788831935595799649
+      Flowey Battle_489: 7433079785543116626
+      Flowey Battle_49: -8874215024834626317
+      Flowey Battle_490: -8511660509142447337
+      Flowey Battle_5: 7843385315824702596
+      Flowey Battle_50: -8426852889978732404
+      Flowey Battle_51: 4787608753429648332
+      Flowey Battle_52: 2809376110484273172
+      Flowey Battle_53: 9086519086296422739
+      Flowey Battle_54: 5535466070835159531
+      Flowey Battle_55: -1105903498799499633
+      Flowey Battle_56: -3878690925616251555
+      Flowey Battle_57: 8598545731117213265
+      Flowey Battle_58: 5829162166658364207
+      Flowey Battle_59: 973554911780848886
+      Flowey Battle_6: -3074272166047317218
+      Flowey Battle_60: -7250477963115314857
+      Flowey Battle_61: -999702732116647684
+      Flowey Battle_62: -8602988410972497184
+      Flowey Battle_63: -6214606917370050828
+      Flowey Battle_64: -8118487037317884971
+      Flowey Battle_65: -5310665425494571054
+      Flowey Battle_66: 4792755169838013282
+      Flowey Battle_67: -6023976119656425529
+      Flowey Battle_68: -3779875994959349312
+      Flowey Battle_69: -270264343213106874
+      Flowey Battle_7: -5689578369186004215
+      Flowey Battle_70: -4859708629218350304
+      Flowey Battle_71: 799521609443945600
+      Flowey Battle_72: -1661585430713043587
+      Flowey Battle_73: -6455832236157675812
+      Flowey Battle_74: -6366331070164538118
+      Flowey Battle_75: -8723641787991543068
+      Flowey Battle_76: -4911222215506630404
+      Flowey Battle_77: -8667774001733584453
+      Flowey Battle_78: 1236637492308180448
+      Flowey Battle_79: 4000794165386150085
+      Flowey Battle_8: 5417519641912767539
+      Flowey Battle_80: -3565612045117856528
+      Flowey Battle_81: 6502313668492043836
+      Flowey Battle_82: 1579837997973701730
+      Flowey Battle_83: 2199956841593970668
+      Flowey Battle_84: -191720833249392875
+      Flowey Battle_85: 3541481397873128673
+      Flowey Battle_86: 7977781258445851613
+      Flowey Battle_87: 334039810767509125
+      Flowey Battle_88: -1261081612525456806
+      Flowey Battle_89: -4068975885708896857
+      Flowey Battle_9: 140640853453690629
+      Flowey Battle_90: -4419036697431721458
+      Flowey Battle_91: 6220414751799413970
+      Flowey Battle_92: -4537649523951158475
+      Flowey Battle_93: -4852316506544245533
+      Flowey Battle_94: 2853683473318306505
+      Flowey Battle_95: 5518422761505852183
+      Flowey Battle_96: -8075538394238334552
+      Flowey Battle_97: 9118002447714767604
+      Flowey Battle_98: -5601743654524089499
+      Flowey Battle_99: 905845320503573982
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

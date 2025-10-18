@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Intro.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Startroom.unity
+    guid: 10e9c57251bdf704088a12932af87e87
+  - enabled: 1
+    path: Assets/Scenes/Floweyroom.unity
+    guid: 68bd98bef3cec0b4ea6e1f56056b29a0
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a283a26f431bc0b489ae36f0a66a3894
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

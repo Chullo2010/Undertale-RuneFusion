@@ -1,0 +1,1916 @@
+fileFormatVersion: 2
+guid: 852c620b5f1a8964e9f27a24cf4b1d9a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8428007911308044831
+    second: The Human Souls_0
+  - first:
+      213: 5054020647419923738
+    second: The Human Souls_1
+  - first:
+      213: -6584627726574532294
+    second: The Human Souls_2
+  - first:
+      213: 7959807980461904329
+    second: The Human Souls_3
+  - first:
+      213: -3131222004946293018
+    second: The Human Souls_4
+  - first:
+      213: 1376596907184240241
+    second: The Human Souls_5
+  - first:
+      213: 8292753921067632285
+    second: The Human Souls_6
+  - first:
+      213: -5727181079063673551
+    second: The Human Souls_7
+  - first:
+      213: -671738750033065813
+    second: The Human Souls_8
+  - first:
+      213: 8570705502297855743
+    second: The Human Souls_9
+  - first:
+      213: 1083496503572388549
+    second: The Human Souls_10
+  - first:
+      213: 8228412079006601023
+    second: The Human Souls_11
+  - first:
+      213: -1369208974623953221
+    second: The Human Souls_12
+  - first:
+      213: 6391616587903755869
+    second: The Human Souls_13
+  - first:
+      213: 5023630759858516804
+    second: The Human Souls_14
+  - first:
+      213: -2233674402694186349
+    second: The Human Souls_15
+  - first:
+      213: -5995161017528291316
+    second: The Human Souls_16
+  - first:
+      213: 6465852604947476451
+    second: The Human Souls_17
+  - first:
+      213: 1504849861269045667
+    second: The Human Souls_18
+  - first:
+      213: 152717543852140235
+    second: The Human Souls_19
+  - first:
+      213: 9123892389283813253
+    second: The Human Souls_20
+  - first:
+      213: 3494785040331211691
+    second: The Human Souls_21
+  - first:
+      213: -1774371059150561983
+    second: The Human Souls_22
+  - first:
+      213: -5982045049749416989
+    second: The Human Souls_23
+  - first:
+      213: 8721716364657675757
+    second: The Human Souls_24
+  - first:
+      213: -6577709118303957033
+    second: The Human Souls_25
+  - first:
+      213: 1180133909253617309
+    second: The Human Souls_26
+  - first:
+      213: -653906292198432854
+    second: The Human Souls_27
+  - first:
+      213: -2295218064817814634
+    second: The Human Souls_28
+  - first:
+      213: -3999672017053746484
+    second: The Human Souls_29
+  - first:
+      213: 3371200623263593889
+    second: The Human Souls_30
+  - first:
+      213: 6143763697612732619
+    second: The Human Souls_31
+  - first:
+      213: -9039739478043148684
+    second: The Human Souls_32
+  - first:
+      213: -1969648709400638241
+    second: The Human Souls_33
+  - first:
+      213: -3536811888450427551
+    second: The Human Souls_34
+  - first:
+      213: 8426003873436296661
+    second: The Human Souls_35
+  - first:
+      213: 1374006927562916467
+    second: The Human Souls_36
+  - first:
+      213: -693599894731085703
+    second: The Human Souls_37
+  - first:
+      213: 5732805353314332273
+    second: The Human Souls_38
+  - first:
+      213: 2431794896940571292
+    second: The Human Souls_39
+  - first:
+      213: -5554905294607840798
+    second: The Human Souls_40
+  - first:
+      213: -608478366052824536
+    second: The Human Souls_41
+  - first:
+      213: 8487443848982422574
+    second: The Human Souls_42
+  - first:
+      213: -6213441784229509734
+    second: The Human Souls_43
+  - first:
+      213: 434620689624312755
+    second: The Human Souls_44
+  - first:
+      213: 702371521538693696
+    second: The Human Souls_45
+  - first:
+      213: 915014447916232739
+    second: The Human Souls_46
+  - first:
+      213: -1437686512537659731
+    second: The Human Souls_47
+  - first:
+      213: -5873890539215433550
+    second: The Human Souls_48
+  - first:
+      213: 6562040640289886723
+    second: The Human Souls_49
+  - first:
+      213: 2799735827503612329
+    second: The Human Souls_50
+  - first:
+      213: -3612092365458983299
+    second: The Human Souls_51
+  - first:
+      213: -7303442006802292778
+    second: The Human Souls_52
+  - first:
+      213: 2776804585949861926
+    second: The Human Souls_53
+  - first:
+      213: 8888296961532859523
+    second: The Human Souls_54
+  - first:
+      213: -6369707078256424701
+    second: The Human Souls_55
+  - first:
+      213: 8025027883634816314
+    second: The Human Souls_56
+  - first:
+      213: 4364266346938057784
+    second: The Human Souls_57
+  - first:
+      213: -6174462151229372422
+    second: The Human Souls_58
+  - first:
+      213: 5814815517439186819
+    second: The Human Souls_59
+  - first:
+      213: -6508225245129808225
+    second: The Human Souls_60
+  - first:
+      213: -5352558007737806205
+    second: The Human Souls_61
+  - first:
+      213: -8836055801067427704
+    second: The Human Souls_62
+  - first:
+      213: -127738095194655773
+    second: The Human Souls_63
+  - first:
+      213: -5827840435999724987
+    second: The Human Souls_64
+  - first:
+      213: 6837858220419996359
+    second: The Human Souls_65
+  - first:
+      213: -6797356218127500634
+    second: The Human Souls_66
+  - first:
+      213: -1891267446920613294
+    second: The Human Souls_67
+  - first:
+      213: 524562019343457115
+    second: The Human Souls_68
+  - first:
+      213: -5323896865227919106
+    second: The Human Souls_69
+  - first:
+      213: -4608259110643368799
+    second: The Human Souls_70
+  - first:
+      213: -711720802475758312
+    second: The Human Souls_71
+  - first:
+      213: 2491541420400978989
+    second: The Human Souls_72
+  - first:
+      213: -9118665443731403176
+    second: The Human Souls_73
+  - first:
+      213: 1129836921578641416
+    second: The Human Souls_74
+  - first:
+      213: -180195351537276086
+    second: The Human Souls_75
+  - first:
+      213: -3715074950902867108
+    second: The Human Souls_76
+  - first:
+      213: 6320540049190996252
+    second: The Human Souls_77
+  - first:
+      213: 7828480849386118843
+    second: The Human Souls_78
+  - first:
+      213: 5344991700634963133
+    second: The Human Souls_79
+  - first:
+      213: -793939654212033912
+    second: The Human Souls_80
+  - first:
+      213: -8999591447212558458
+    second: The Human Souls_81
+  - first:
+      213: 2377055286042830095
+    second: The Human Souls_82
+  - first:
+      213: -8050134871182404531
+    second: The Human Souls_83
+  - first:
+      213: 6919607792903265133
+    second: The Human Souls_84
+  - first:
+      213: -1133829816717741855
+    second: The Human Souls_85
+  - first:
+      213: -3184077033546977055
+    second: The Human Souls_86
+  - first:
+      213: 3906535726099092769
+    second: The Human Souls_87
+  - first:
+      213: -4683919902025114180
+    second: The Human Souls_88
+  - first:
+      213: -4434085216338146071
+    second: The Human Souls_89
+  - first:
+      213: 7699554939837645350
+    second: The Human Souls_90
+  - first:
+      213: 6937394034629179249
+    second: The Human Souls_91
+  - first:
+      213: -327275316079265994
+    second: The Human Souls_92
+  - first:
+      213: 6756032105413190329
+    second: The Human Souls_93
+  - first:
+      213: -3018968243176592773
+    second: The Human Souls_94
+  - first:
+      213: -6311316884425058469
+    second: The Human Souls_95
+  - first:
+      213: 4137107430672803746
+    second: The Human Souls_96
+  - first:
+      213: 9100198603822767712
+    second: The Human Souls_97
+  - first:
+      213: 7866961935907597918
+    second: The Human Souls_98
+  - first:
+      213: 2090091890511741505
+    second: The Human Souls_99
+  - first:
+      213: 2830561366597653718
+    second: The Human Souls_100
+  - first:
+      213: 7130010399470971990
+    second: The Human Souls_101
+  - first:
+      213: 8629461158279615254
+    second: The Human Souls_102
+  - first:
+      213: 5092246294933286098
+    second: The Human Souls_103
+  - first:
+      213: 2840741339950610501
+    second: The Human Souls_104
+  - first:
+      213: 3977474407019229506
+    second: The Human Souls_105
+  - first:
+      213: 292118780866371002
+    second: The Human Souls_106
+  - first:
+      213: -2288341715921044554
+    second: The Human Souls_107
+  - first:
+      213: 5962461839722687853
+    second: The Human Souls_108
+  - first:
+      213: 2196989495703988991
+    second: The Human Souls_109
+  - first:
+      213: -2448787925212686413
+    second: The Human Souls_110
+  - first:
+      213: 572558372301208523
+    second: The Human Souls_111
+  - first:
+      213: -7318051392984522309
+    second: The Human Souls_112
+  - first:
+      213: -2078217577380354083
+    second: The Human Souls_113
+  - first:
+      213: 128831897336324816
+    second: The Human Souls_114
+  - first:
+      213: -4989997291613093424
+    second: The Human Souls_115
+  - first:
+      213: 1798590017534646209
+    second: The Human Souls_116
+  - first:
+      213: -3845502757853282651
+    second: The Human Souls_117
+  - first:
+      213: -5598474289081758162
+    second: The Human Souls_118
+  - first:
+      213: -2802248094634906162
+    second: The Human Souls_119
+  - first:
+      213: 7202040100377010183
+    second: The Human Souls_120
+  - first:
+      213: 5871740177182166316
+    second: The Human Souls_121
+  - first:
+      213: -6912839475278738642
+    second: The Human Souls_122
+  - first:
+      213: 2095153448839071952
+    second: The Human Souls_123
+  - first:
+      213: -2192837897217310009
+    second: The Human Souls_124
+  - first:
+      213: 9096297523406115729
+    second: The Human Souls_125
+  - first:
+      213: 8303204115916136940
+    second: The Human Souls_126
+  - first:
+      213: 729585382738649622
+    second: The Human Souls_127
+  - first:
+      213: 5311964446705812103
+    second: The Human Souls_128
+  - first:
+      213: 7245901089672988662
+    second: The Human Souls_129
+  - first:
+      213: -6449622843236417060
+    second: The Human Souls_130
+  - first:
+      213: -5172508998729659884
+    second: The Human Souls_131
+  - first:
+      213: -309128028781559468
+    second: The Human Souls_132
+  - first:
+      213: -1105472122942748632
+    second: The Human Souls_133
+  - first:
+      213: -5430632681037023825
+    second: The Human Souls_134
+  - first:
+      213: -2487762900032554858
+    second: The Human Souls_135
+  - first:
+      213: 166185572999821501
+    second: The Human Souls_136
+  - first:
+      213: -7728300054913183072
+    second: The Human Souls_137
+  - first:
+      213: 1497385320899783969
+    second: The Human Souls_138
+  - first:
+      213: -1873600849833462934
+    second: The Human Souls_139
+  - first:
+      213: -1130946507911926069
+    second: The Human Souls_140
+  - first:
+      213: -6398073362102693261
+    second: The Human Souls_141
+  - first:
+      213: 830766258541094335
+    second: The Human Souls_142
+  - first:
+      213: 4364025226382701240
+    second: The Human Souls_143
+  - first:
+      213: 6621994156291809003
+    second: The Human Souls_144
+  - first:
+      213: -4742763470218861206
+    second: The Human Souls_145
+  - first:
+      213: -804396405257590035
+    second: The Human Souls_146
+  - first:
+      213: -6100244421585515688
+    second: The Human Souls_147
+  - first:
+      213: -236816892739973498
+    second: The Human Souls_148
+  - first:
+      213: -5888261653814260442
+    second: The Human Souls_149
+  - first:
+      213: 5506810652513718483
+    second: The Human Souls_150
+  - first:
+      213: 7530891389908869304
+    second: The Human Souls_151
+  - first:
+      213: 3707612635840919149
+    second: The Human Souls_152
+  - first:
+      213: -3341247146817821676
+    second: The Human Souls_153
+  - first:
+      213: -8262685570558262482
+    second: The Human Souls_154
+  - first:
+      213: -5743661351360462765
+    second: The Human Souls_155
+  - first:
+      213: -9079823484729298574
+    second: The Human Souls_156
+  - first:
+      213: 1335155059767326831
+    second: The Human Souls_157
+  - first:
+      213: -1378518821078303654
+    second: The Human Souls_158
+  - first:
+      213: 3010143916208416497
+    second: The Human Souls_159
+  - first:
+      213: -5915856065016249136
+    second: The Human Souls_160
+  - first:
+      213: -5248414688954465581
+    second: The Human Souls_161
+  - first:
+      213: -7214814660181535607
+    second: The Human Souls_162
+  - first:
+      213: 7874626322674962603
+    second: The Human Souls_163
+  - first:
+      213: -242710301179374359
+    second: The Human Souls_164
+  - first:
+      213: 8310901953692845656
+    second: The Human Souls_165
+  - first:
+      213: 9060596093473100369
+    second: The Human Souls_166
+  - first:
+      213: 6315138904123074335
+    second: The Human Souls_167
+  - first:
+      213: 3598217335837580047
+    second: The Human Souls_168
+  - first:
+      213: -8721072187009809967
+    second: The Human Souls_169
+  - first:
+      213: -4987640519660896846
+    second: The Human Souls_170
+  - first:
+      213: -4650088399022835116
+    second: The Human Souls_171
+  - first:
+      213: 5718167466666127338
+    second: The Human Souls_172
+  - first:
+      213: -7053744159087880986
+    second: The Human Souls_173
+  - first:
+      213: 3504675215143022998
+    second: The Human Souls_174
+  - first:
+      213: 6733796787996059397
+    second: The Human Souls_175
+  - first:
+      213: 711188067638705151
+    second: The Human Souls_176
+  - first:
+      213: 8041508271407499499
+    second: The Human Souls_177
+  - first:
+      213: -4426375087676038637
+    second: The Human Souls_178
+  - first:
+      213: 6725487275871848855
+    second: The Human Souls_179
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: The Human Souls_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 72
+        width: 3
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1aa2b5ba8c46f470800000000000000
+      internalID: 8428007911308044831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee2a4a2d2aab84d0800000000000000
+      internalID: -3131222004946293018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 479
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1763e93f797aa1310800000000000000
+      internalID: 1376596907184240241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 467
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca5fc2545a590f00800000000000000
+      internalID: 1083496503572388549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 440
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00f4fa71d8eccca0800000000000000
+      internalID: -5995161017528291316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_17
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 440
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efade7cfa25bb950800000000000000
+      internalID: 6465852604947476451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 421
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dd8973cea2067e0800000000000000
+      internalID: -1774371059150561983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_23
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 421
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e35d43b8b18bfca0800000000000000
+      internalID: -5982045049749416989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 410
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaf07ddd7f4e78c0800000000000000
+      internalID: -3999672017053746484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_30
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 410
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5b3300b19e8ce20800000000000000
+      internalID: 3371200623263593889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 409
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8b52c2888034550800000000000000
+      internalID: 6143763697612732619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_32
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 410
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47eb92dd6d46c8280800000000000000
+      internalID: -9039739478043148684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 374
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d76baec91254fddc0800000000000000
+      internalID: -3612092365458983299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_52
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 374
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df12eaa036f4aa90800000000000000
+      internalID: -7303442006802292778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_58
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af701ec1367ef4aa0800000000000000
+      internalID: -6174462151229372422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_62
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 349
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888a8d97016006580800000000000000
+      internalID: -8836055801067427704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_67
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2527903074ed0c5e0800000000000000
+      internalID: -1891267446920613294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_68
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 330
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bd0a9906e974700800000000000000
+      internalID: 524562019343457115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808d0dca1bcfdaf00800000000000000
+      internalID: 1129836921578641416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_75
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 311
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ba1715841df7df0800000000000000
+      internalID: -180195351537276086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_86
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 276
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0f3f5dec2efc3d0800000000000000
+      internalID: -3184077033546977055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_87
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 276
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12552809b8dc63630800000000000000
+      internalID: 3906535726099092769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_101
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65cee419ea2e2f260800000000000000
+      internalID: 7130010399470971990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_102
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 206
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613994ed33102c770800000000000000
+      internalID: 8629461158279615254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_107
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 187
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb71d1655d2e30e0800000000000000
+      internalID: -2288341715921044554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_108
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 187
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d2e77e37beeb250800000000000000
+      internalID: 5962461839722687853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_116
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 168
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c757b37710e5f810800000000000000
+      internalID: 1798590017534646209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_117
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 169
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aebe57bd9702aac0800000000000000
+      internalID: -3845502757853282651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_118
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 171
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ecf1bcb493e42b0800000000000000
+      internalID: -5598474289081758162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_119
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 171
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd65c2743a6c19d0800000000000000
+      internalID: -2802248094634906162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_120
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 171
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70027113059c2f360800000000000000
+      internalID: 7202040100377010183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_121
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 171
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d0552d49c9c7150800000000000000
+      internalID: 5871740177182166316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_135
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 131
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 698f92ab2d0b97dd0800000000000000
+      internalID: -2487762900032554858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_136
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 131
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8f27de5e86e4200800000000000000
+      internalID: 166185572999821501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_142
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 97
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5e8b3b289778b00800000000000000
+      internalID: 830766258541094335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_143
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 97
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b2726162d1209c30800000000000000
+      internalID: 4364025226382701240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_154
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 72
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23012c404b055d80800000000000000
+      internalID: -8262685570558262482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_155
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 72
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3500502ae6a6a40b0800000000000000
+      internalID: -5743661351360462765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_156
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 72
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271f579c5acfdf180800000000000000
+      internalID: -9079823484729298574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_157
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 72
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f683f71f37c678210800000000000000
+      internalID: 1335155059767326831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_158
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 72
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cff699f648edce0800000000000000
+      internalID: -1378518821078303654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_159
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 72
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f6e76081fd26c920800000000000000
+      internalID: 3010143916208416497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_166
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 36
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15291c45424bdbd70800000000000000
+      internalID: 9060596093473100369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_167
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 36
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17618fcf51e3a750800000000000000
+      internalID: 6315138904123074335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_168
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 36
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b504f4a9f6fe130800000000000000
+      internalID: 3598217335837580047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_169
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 36
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1cdb85d0788f680800000000000000
+      internalID: -8721072187009809967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_174
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69137b32a8b13a030800000000000000
+      internalID: 3504675215143022998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_180
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 421
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b51fb6e96e1724e9e7b62da6df019a
+      internalID: 497605350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: The Human Souls_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 421
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258dba1327731ab4297a04765eed3ea6
+      internalID: 5054020647419923738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c5936b52f3fe0454aa51eb8a230721d6
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      The Human Souls_0: 8428007911308044831
+      The Human Souls_1: 5054020647419923738
+      The Human Souls_10: 1083496503572388549
+      The Human Souls_100: 2830561366597653718
+      The Human Souls_101: 7130010399470971990
+      The Human Souls_102: 8629461158279615254
+      The Human Souls_103: 5092246294933286098
+      The Human Souls_104: 2840741339950610501
+      The Human Souls_105: 3977474407019229506
+      The Human Souls_106: 292118780866371002
+      The Human Souls_107: -2288341715921044554
+      The Human Souls_108: 5962461839722687853
+      The Human Souls_109: 2196989495703988991
+      The Human Souls_11: 8228412079006601023
+      The Human Souls_110: -2448787925212686413
+      The Human Souls_111: 572558372301208523
+      The Human Souls_112: -7318051392984522309
+      The Human Souls_113: -2078217577380354083
+      The Human Souls_114: 128831897336324816
+      The Human Souls_115: -4989997291613093424
+      The Human Souls_116: 1798590017534646209
+      The Human Souls_117: -3845502757853282651
+      The Human Souls_118: -5598474289081758162
+      The Human Souls_119: -2802248094634906162
+      The Human Souls_12: -1369208974623953221
+      The Human Souls_120: 7202040100377010183
+      The Human Souls_121: 5871740177182166316
+      The Human Souls_122: -6912839475278738642
+      The Human Souls_123: 2095153448839071952
+      The Human Souls_124: -2192837897217310009
+      The Human Souls_125: 9096297523406115729
+      The Human Souls_126: 8303204115916136940
+      The Human Souls_127: 729585382738649622
+      The Human Souls_128: 5311964446705812103
+      The Human Souls_129: 7245901089672988662
+      The Human Souls_13: 6391616587903755869
+      The Human Souls_130: -6449622843236417060
+      The Human Souls_131: -5172508998729659884
+      The Human Souls_132: -309128028781559468
+      The Human Souls_133: -1105472122942748632
+      The Human Souls_134: -5430632681037023825
+      The Human Souls_135: -2487762900032554858
+      The Human Souls_136: 166185572999821501
+      The Human Souls_137: -7728300054913183072
+      The Human Souls_138: 1497385320899783969
+      The Human Souls_139: -1873600849833462934
+      The Human Souls_14: 5023630759858516804
+      The Human Souls_140: -1130946507911926069
+      The Human Souls_141: -6398073362102693261
+      The Human Souls_142: 830766258541094335
+      The Human Souls_143: 4364025226382701240
+      The Human Souls_144: 6621994156291809003
+      The Human Souls_145: -4742763470218861206
+      The Human Souls_146: -804396405257590035
+      The Human Souls_147: -6100244421585515688
+      The Human Souls_148: -236816892739973498
+      The Human Souls_149: -5888261653814260442
+      The Human Souls_15: -2233674402694186349
+      The Human Souls_150: 5506810652513718483
+      The Human Souls_151: 7530891389908869304
+      The Human Souls_152: 3707612635840919149
+      The Human Souls_153: -3341247146817821676
+      The Human Souls_154: -8262685570558262482
+      The Human Souls_155: -5743661351360462765
+      The Human Souls_156: -9079823484729298574
+      The Human Souls_157: 1335155059767326831
+      The Human Souls_158: -1378518821078303654
+      The Human Souls_159: 3010143916208416497
+      The Human Souls_16: -5995161017528291316
+      The Human Souls_160: -5915856065016249136
+      The Human Souls_161: -5248414688954465581
+      The Human Souls_162: -7214814660181535607
+      The Human Souls_163: 7874626322674962603
+      The Human Souls_164: -242710301179374359
+      The Human Souls_165: 8310901953692845656
+      The Human Souls_166: 9060596093473100369
+      The Human Souls_167: 6315138904123074335
+      The Human Souls_168: 3598217335837580047
+      The Human Souls_169: -8721072187009809967
+      The Human Souls_17: 6465852604947476451
+      The Human Souls_170: -4987640519660896846
+      The Human Souls_171: -4650088399022835116
+      The Human Souls_172: 5718167466666127338
+      The Human Souls_173: -7053744159087880986
+      The Human Souls_174: 3504675215143022998
+      The Human Souls_175: 6733796787996059397
+      The Human Souls_176: 711188067638705151
+      The Human Souls_177: 8041508271407499499
+      The Human Souls_178: -4426375087676038637
+      The Human Souls_179: 6725487275871848855
+      The Human Souls_18: 1504849861269045667
+      The Human Souls_180: 497605350
+      The Human Souls_19: 152717543852140235
+      The Human Souls_2: -6584627726574532294
+      The Human Souls_20: 9123892389283813253
+      The Human Souls_21: 3494785040331211691
+      The Human Souls_22: -1774371059150561983
+      The Human Souls_23: -5982045049749416989
+      The Human Souls_24: 8721716364657675757
+      The Human Souls_25: -6577709118303957033
+      The Human Souls_26: 1180133909253617309
+      The Human Souls_27: -653906292198432854
+      The Human Souls_28: -2295218064817814634
+      The Human Souls_29: -3999672017053746484
+      The Human Souls_3: 7959807980461904329
+      The Human Souls_30: 3371200623263593889
+      The Human Souls_31: 6143763697612732619
+      The Human Souls_32: -9039739478043148684
+      The Human Souls_33: -1969648709400638241
+      The Human Souls_34: -3536811888450427551
+      The Human Souls_35: 8426003873436296661
+      The Human Souls_36: 1374006927562916467
+      The Human Souls_37: -693599894731085703
+      The Human Souls_38: 5732805353314332273
+      The Human Souls_39: 2431794896940571292
+      The Human Souls_4: -3131222004946293018
+      The Human Souls_40: -5554905294607840798
+      The Human Souls_41: -608478366052824536
+      The Human Souls_42: 8487443848982422574
+      The Human Souls_43: -6213441784229509734
+      The Human Souls_44: 434620689624312755
+      The Human Souls_45: 702371521538693696
+      The Human Souls_46: 915014447916232739
+      The Human Souls_47: -1437686512537659731
+      The Human Souls_48: -5873890539215433550
+      The Human Souls_49: 6562040640289886723
+      The Human Souls_5: 1376596907184240241
+      The Human Souls_50: 2799735827503612329
+      The Human Souls_51: -3612092365458983299
+      The Human Souls_52: -7303442006802292778
+      The Human Souls_53: 2776804585949861926
+      The Human Souls_54: 8888296961532859523
+      The Human Souls_55: -6369707078256424701
+      The Human Souls_56: 8025027883634816314
+      The Human Souls_57: 4364266346938057784
+      The Human Souls_58: -6174462151229372422
+      The Human Souls_59: 5814815517439186819
+      The Human Souls_6: 8292753921067632285
+      The Human Souls_60: -6508225245129808225
+      The Human Souls_61: -5352558007737806205
+      The Human Souls_62: -8836055801067427704
+      The Human Souls_63: -127738095194655773
+      The Human Souls_64: -5827840435999724987
+      The Human Souls_65: 6837858220419996359
+      The Human Souls_66: -6797356218127500634
+      The Human Souls_67: -1891267446920613294
+      The Human Souls_68: 524562019343457115
+      The Human Souls_69: -5323896865227919106
+      The Human Souls_7: -5727181079063673551
+      The Human Souls_70: -4608259110643368799
+      The Human Souls_71: -711720802475758312
+      The Human Souls_72: 2491541420400978989
+      The Human Souls_73: -9118665443731403176
+      The Human Souls_74: 1129836921578641416
+      The Human Souls_75: -180195351537276086
+      The Human Souls_76: -3715074950902867108
+      The Human Souls_77: 6320540049190996252
+      The Human Souls_78: 7828480849386118843
+      The Human Souls_79: 5344991700634963133
+      The Human Souls_8: -671738750033065813
+      The Human Souls_80: -793939654212033912
+      The Human Souls_81: -8999591447212558458
+      The Human Souls_82: 2377055286042830095
+      The Human Souls_83: -8050134871182404531
+      The Human Souls_84: 6919607792903265133
+      The Human Souls_85: -1133829816717741855
+      The Human Souls_86: -3184077033546977055
+      The Human Souls_87: 3906535726099092769
+      The Human Souls_88: -4683919902025114180
+      The Human Souls_89: -4434085216338146071
+      The Human Souls_9: 8570705502297855743
+      The Human Souls_90: 7699554939837645350
+      The Human Souls_91: 6937394034629179249
+      The Human Souls_92: -327275316079265994
+      The Human Souls_93: 6756032105413190329
+      The Human Souls_94: -3018968243176592773
+      The Human Souls_95: -6311316884425058469
+      The Human Souls_96: 4137107430672803746
+      The Human Souls_97: 9100198603822767712
+      The Human Souls_98: 7866961935907597918
+      The Human Souls_99: 2090091890511741505
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

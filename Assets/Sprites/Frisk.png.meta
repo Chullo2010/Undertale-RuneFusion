@@ -1,0 +1,3573 @@
+fileFormatVersion: 2
+guid: 26f6bab72cd453a47a396fef8a36b9c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 699622834042658614
+    second: Frisk_0
+  - first:
+      213: 6093710288577514190
+    second: Frisk_1
+  - first:
+      213: -2765259499818248409
+    second: Frisk_2
+  - first:
+      213: -6869874779387257181
+    second: Frisk_3
+  - first:
+      213: 6808968749587890681
+    second: Frisk_4
+  - first:
+      213: 5982132696013161757
+    second: Frisk_5
+  - first:
+      213: -9193530025326209821
+    second: Frisk_6
+  - first:
+      213: 8421086048486768925
+    second: Frisk_7
+  - first:
+      213: 996747677196342372
+    second: Frisk_8
+  - first:
+      213: -4138644558717066603
+    second: Frisk_9
+  - first:
+      213: 8327196374232339383
+    second: Frisk_10
+  - first:
+      213: -9185994202005519850
+    second: Frisk_11
+  - first:
+      213: -267258902136244819
+    second: Frisk_12
+  - first:
+      213: -8527748486247085261
+    second: Frisk_13
+  - first:
+      213: -4726624958792327810
+    second: Frisk_14
+  - first:
+      213: -4187840486234898459
+    second: Frisk_15
+  - first:
+      213: -8120551911920014441
+    second: Frisk_16
+  - first:
+      213: 4168585633755574508
+    second: Frisk_17
+  - first:
+      213: 2740088961114307033
+    second: Frisk_18
+  - first:
+      213: -5117098477917761787
+    second: Frisk_19
+  - first:
+      213: -711981898252337826
+    second: Frisk_20
+  - first:
+      213: 2230263975966635135
+    second: Frisk_21
+  - first:
+      213: -8476294395202548932
+    second: Frisk_22
+  - first:
+      213: 3862184554121853807
+    second: Frisk_23
+  - first:
+      213: 384440716476868089
+    second: Frisk_24
+  - first:
+      213: -1956888162379629984
+    second: Frisk_25
+  - first:
+      213: -4088612104769517112
+    second: Frisk_26
+  - first:
+      213: -500471994346666975
+    second: Frisk_27
+  - first:
+      213: 2764180749858520351
+    second: Frisk_28
+  - first:
+      213: -6799910917995563233
+    second: Frisk_29
+  - first:
+      213: -6673592697794450235
+    second: Frisk_30
+  - first:
+      213: -5661301295391047294
+    second: Frisk_31
+  - first:
+      213: -1220092714499432494
+    second: Frisk_32
+  - first:
+      213: -1059660494768262799
+    second: Frisk_33
+  - first:
+      213: 594379753069880576
+    second: Frisk_34
+  - first:
+      213: -3905952128950507740
+    second: Frisk_35
+  - first:
+      213: -1667495923610768983
+    second: Frisk_36
+  - first:
+      213: -6758771618751240158
+    second: Frisk_37
+  - first:
+      213: -6443014005548137329
+    second: Frisk_38
+  - first:
+      213: 1599017901358350666
+    second: Frisk_39
+  - first:
+      213: -4270941926226948293
+    second: Frisk_40
+  - first:
+      213: -5024641822743045490
+    second: Frisk_41
+  - first:
+      213: 4186003865517782928
+    second: Frisk_42
+  - first:
+      213: 6557024886485050743
+    second: Frisk_43
+  - first:
+      213: -4566797737727969019
+    second: Frisk_44
+  - first:
+      213: 4715454477801635198
+    second: Frisk_45
+  - first:
+      213: 6766006621851932264
+    second: Frisk_46
+  - first:
+      213: -6990501364330112704
+    second: Frisk_47
+  - first:
+      213: 5941536936026803705
+    second: Frisk_48
+  - first:
+      213: 1235195978381716360
+    second: Frisk_49
+  - first:
+      213: -2683192521091531650
+    second: Frisk_50
+  - first:
+      213: -3906379641230631116
+    second: Frisk_51
+  - first:
+      213: 7358701397833587334
+    second: Frisk_52
+  - first:
+      213: 7349259528914655444
+    second: Frisk_53
+  - first:
+      213: -7808187282035937379
+    second: Frisk_54
+  - first:
+      213: -5039011243113995433
+    second: Frisk_55
+  - first:
+      213: -8095915705931458933
+    second: Frisk_56
+  - first:
+      213: 38738756121158944
+    second: Frisk_57
+  - first:
+      213: 1175171600263142034
+    second: Frisk_58
+  - first:
+      213: -240516980914411828
+    second: Frisk_59
+  - first:
+      213: 1455388984501384433
+    second: Frisk_60
+  - first:
+      213: 1857172872094754160
+    second: Frisk_61
+  - first:
+      213: 8848236759428436404
+    second: Frisk_62
+  - first:
+      213: 9123708968740824050
+    second: Frisk_63
+  - first:
+      213: 5644166641379616282
+    second: Frisk_64
+  - first:
+      213: -8805319803614612614
+    second: Frisk_65
+  - first:
+      213: -7729559995601129615
+    second: Frisk_66
+  - first:
+      213: -8541275566201923035
+    second: Frisk_67
+  - first:
+      213: -3568224892902209221
+    second: Frisk_68
+  - first:
+      213: 4843833205231074531
+    second: Frisk_69
+  - first:
+      213: 8397142104988282312
+    second: Frisk_70
+  - first:
+      213: -5734001061025568920
+    second: Frisk_71
+  - first:
+      213: 3533198846868091564
+    second: Frisk_72
+  - first:
+      213: 5062926382767654025
+    second: Frisk_73
+  - first:
+      213: 4978853696501741392
+    second: Frisk_74
+  - first:
+      213: 8461785940923257066
+    second: Frisk_75
+  - first:
+      213: 6177089640411810628
+    second: Frisk_76
+  - first:
+      213: -4958291083496029136
+    second: Frisk_77
+  - first:
+      213: 6563893904530466236
+    second: Frisk_78
+  - first:
+      213: 1847624969713432224
+    second: Frisk_79
+  - first:
+      213: 7044560869410211765
+    second: Frisk_80
+  - first:
+      213: -6614110853454390851
+    second: Frisk_81
+  - first:
+      213: -1977023488623998942
+    second: Frisk_82
+  - first:
+      213: -1476888818489956453
+    second: Frisk_83
+  - first:
+      213: -1999211084993626817
+    second: Frisk_84
+  - first:
+      213: -4942065829178577651
+    second: Frisk_85
+  - first:
+      213: 3929042099719668386
+    second: Frisk_86
+  - first:
+      213: -5179629188791005709
+    second: Frisk_87
+  - first:
+      213: 3472670507130116341
+    second: Frisk_88
+  - first:
+      213: 1798850659662440335
+    second: Frisk_89
+  - first:
+      213: 4260890976825645119
+    second: Frisk_90
+  - first:
+      213: 5672031021151153061
+    second: Frisk_91
+  - first:
+      213: -3050867010613740417
+    second: Frisk_92
+  - first:
+      213: 2418024385215016535
+    second: Frisk_93
+  - first:
+      213: -9124146985546643464
+    second: Frisk_94
+  - first:
+      213: 2790915604641981794
+    second: Frisk_95
+  - first:
+      213: -1660417986678318589
+    second: Frisk_96
+  - first:
+      213: 535761640046616458
+    second: Frisk_97
+  - first:
+      213: 22345506167485023
+    second: Frisk_98
+  - first:
+      213: 9198517152934869968
+    second: Frisk_99
+  - first:
+      213: -375045322617586645
+    second: Frisk_100
+  - first:
+      213: 3400438500569022577
+    second: Frisk_101
+  - first:
+      213: 954952716770066537
+    second: Frisk_102
+  - first:
+      213: -2551517969501715870
+    second: Frisk_103
+  - first:
+      213: -1060839221843531309
+    second: Frisk_104
+  - first:
+      213: 3511497583496384647
+    second: Frisk_105
+  - first:
+      213: 2920745947592539934
+    second: Frisk_106
+  - first:
+      213: 8561451650219106195
+    second: Frisk_107
+  - first:
+      213: 454768233342895463
+    second: Frisk_108
+  - first:
+      213: -9109661050529493317
+    second: Frisk_109
+  - first:
+      213: -3587698727831187385
+    second: Frisk_110
+  - first:
+      213: 8830217390789586618
+    second: Frisk_111
+  - first:
+      213: 7406665207135123333
+    second: Frisk_112
+  - first:
+      213: 4632631294030363281
+    second: Frisk_113
+  - first:
+      213: -1278056239947116855
+    second: Frisk_114
+  - first:
+      213: 5047311859782555342
+    second: Frisk_115
+  - first:
+      213: -8469351811745362943
+    second: Frisk_116
+  - first:
+      213: -1460203130351917939
+    second: Frisk_117
+  - first:
+      213: -4075960464708973393
+    second: Frisk_118
+  - first:
+      213: -306336896967450113
+    second: Frisk_119
+  - first:
+      213: -4954566249042553620
+    second: Frisk_120
+  - first:
+      213: -8439980271733924756
+    second: Frisk_121
+  - first:
+      213: -2804460206968594843
+    second: Frisk_122
+  - first:
+      213: 1774339538333666572
+    second: Frisk_123
+  - first:
+      213: -5244817552877751620
+    second: Frisk_124
+  - first:
+      213: -8469845824401415449
+    second: Frisk_125
+  - first:
+      213: -8052257443690889845
+    second: Frisk_126
+  - first:
+      213: 3227965768481578896
+    second: Frisk_127
+  - first:
+      213: 8972943538684302797
+    second: Frisk_128
+  - first:
+      213: -445782641183439772
+    second: Frisk_129
+  - first:
+      213: 4339129559487649903
+    second: Frisk_130
+  - first:
+      213: -5129819547793829293
+    second: Frisk_131
+  - first:
+      213: 1632004373688982053
+    second: Frisk_132
+  - first:
+      213: 7677848045870198668
+    second: Frisk_133
+  - first:
+      213: 1693582233985347786
+    second: Frisk_134
+  - first:
+      213: -2484668778317712431
+    second: Frisk_135
+  - first:
+      213: -1531900498518577523
+    second: Frisk_136
+  - first:
+      213: -390766292921945545
+    second: Frisk_137
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Frisk_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 403
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f5dd3c24f85b900800000000000000
+      internalID: 699622834042658614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 404
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca4ecab835319450800000000000000
+      internalID: 6093710288577514190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 403
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7271f89c223df99d0800000000000000
+      internalID: -2765259499818248409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 404
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae153b494d49a0a0800000000000000
+      internalID: -6869874779387257181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 403
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f10ce590015e7e50800000000000000
+      internalID: 6808968749587890681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 404
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d154d190efdc40350800000000000000
+      internalID: 5982132696013161757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 403
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e41b80c6250a6080800000000000000
+      internalID: -9193530025326209821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 404
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d114d0fe425bdd470800000000000000
+      internalID: 8421086048486768925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_8
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 403
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464dbfd3bb825dd00800000000000000
+      internalID: 996747677196342372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 404
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592e01a83b49096c0800000000000000
+      internalID: -4138644558717066603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 403
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b31a05abf4209370800000000000000
+      internalID: 8327196374232339383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 404
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612c9a851fac48080800000000000000
+      internalID: -9185994202005519850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 403
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5bb1bc1718a4cf0800000000000000
+      internalID: -267258902136244819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_13
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 404
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b0e570fe957a980800000000000000
+      internalID: -8527748486247085261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_14
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 403
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d10b884a7a76eb0800000000000000
+      internalID: -4726624958792327810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 404
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef38f1144dc1e5c0800000000000000
+      internalID: -4187840486234898459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_16
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 403
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b63e58f010e4f80800000000000000
+      internalID: -8120551911920014441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_17
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 404
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce03ccb3c8ac9d930800000000000000
+      internalID: 4168585633755574508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 403
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d9ff2c7460c60620800000000000000
+      internalID: 2740088961114307033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 404
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f050fbb0a6cf8b0800000000000000
+      internalID: -5117098477917761787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_20
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 404
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5d392c5c388e16f0800000000000000
+      internalID: -711981898252337826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_21
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 403
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7477da054d73fe10800000000000000
+      internalID: 2230263975966635135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_22
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 404
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b415a28272e5a80800000000000000
+      internalID: -8476294395202548932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_23
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 403
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bfe65a36c399530800000000000000
+      internalID: 3862184554121853807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5ecc67bcec55500800000000000000
+      internalID: 384440716476868089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_25
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 370
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06af138959cb7d4e0800000000000000
+      internalID: -1956888162379629984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9c9def3f45247c0800000000000000
+      internalID: -4088612104769517112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_27
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 370
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1248fec6f57fd09f0800000000000000
+      internalID: -500471994346666975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d3a4a2fb75c5620800000000000000
+      internalID: 2764180749858520351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_29
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 370
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17f29c2c0dd1a1a0800000000000000
+      internalID: -6799910917995563233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_30
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc2250bcc2a263a0800000000000000
+      internalID: -6673592697794450235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_31
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 370
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28102c977740f61b0800000000000000
+      internalID: -5661301295391047294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_32
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df1837f32c511fe0800000000000000
+      internalID: -1220092714499432494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_33
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 370
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171b2d2f4645b41f0800000000000000
+      internalID: -1059660494768262799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_34
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0052a6b7c39af3800800000000000000
+      internalID: 594379753069880576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 370
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427693cbb354bc9c0800000000000000
+      internalID: -3905952128950507740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_36
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9a4c0da4ddbd8e0800000000000000
+      internalID: -1667495923610768983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_37
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 370
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2282752b5050432a0800000000000000
+      internalID: -6758771618751240158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_38
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84cf6406e0d596a0800000000000000
+      internalID: -6443014005548137329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_39
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 370
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4184ff2f4ad03610800000000000000
+      internalID: 1599017901358350666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_40
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f8bee42f09ab4c0800000000000000
+      internalID: -4270941926226948293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_41
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 370
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a54d742e2e44ab0800000000000000
+      internalID: -5024641822743045490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_42
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0977998565ca71a30800000000000000
+      internalID: 4186003865517782928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_43
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 370
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7756656c46b3ffa50800000000000000
+      internalID: 6557024886485050743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_44
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509baa947a97f90c0800000000000000
+      internalID: -4566797737727969019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_45
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 371
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d34ef2dd8a07140800000000000000
+      internalID: 4715454477801635198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_46
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866dc6bbc2fa5ed50800000000000000
+      internalID: 6766006621851932264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_47
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 371
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0495831eb00ccfe90800000000000000
+      internalID: -6990501364330112704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_48
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd8dbb1d54947250800000000000000
+      internalID: 5941536936026803705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_49
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 370
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bee6fa23c442110800000000000000
+      internalID: 1235195978381716360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_50
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 370
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cba544e9263cad0800000000000000
+      internalID: -2683192521091531650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_51
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 370
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f51a6c960c9c9c0800000000000000
+      internalID: -3906379641230631116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 337
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a9a0aeeeb5f1660800000000000000
+      internalID: 7358701397833587334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_53
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 338
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d8dc1f7a90ddf560800000000000000
+      internalID: 7349259528914655444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 337
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f668a590fb3a390800000000000000
+      internalID: -7808187282035937379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_55
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 338
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753adf2e8f5d11ab0800000000000000
+      internalID: -5039011243113995433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_56
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 337
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8613783f8785af80800000000000000
+      internalID: -8095915705931458933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_57
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 338
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02564a581b0a98000800000000000000
+      internalID: 38738756121158944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_58
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 337
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29adfc7185c0f4010800000000000000
+      internalID: 1175171600263142034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_59
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 338
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6a526841389acf0800000000000000
+      internalID: -240516980914411828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_60
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 337
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f4b8370294923410800000000000000
+      internalID: 1455388984501384433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_61
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 338
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07523bf23e006c910800000000000000
+      internalID: 1857172872094754160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_62
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 337
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b11946e3704bca70800000000000000
+      internalID: 8848236759428436404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_63
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 338
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f3a7d3b7fced9e70800000000000000
+      internalID: 9123708968740824050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_64
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 337
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16aa8008ab145e40800000000000000
+      internalID: 5644166641379616282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_65
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 338
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73b6db8a483dc580800000000000000
+      internalID: -8805319803614612614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_66
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 337
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fef1013261bb490800000000000000
+      internalID: -7729559995601129615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_67
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 338
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a9fcb402b477980800000000000000
+      internalID: -8541275566201923035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_68
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 338
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b398bdb7d5e1b7ec0800000000000000
+      internalID: -3568224892902209221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_69
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 337
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec3a0de2a0c83340800000000000000
+      internalID: 4843833205231074531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_70
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 338
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd6d482144a88470800000000000000
+      internalID: 8397142104988282312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_71
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 337
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867abdf3a6cbc60b0800000000000000
+      internalID: -5734001061025568920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 293
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2746ca1a1780130800000000000000
+      internalID: 3533198846868091564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_73
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 294
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984c1d878b0234640800000000000000
+      internalID: 5062926382767654025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_74
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 293
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05770a0de01781540800000000000000
+      internalID: 4978853696501741392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_75
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 294
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae010261b7d4e6570800000000000000
+      internalID: 8461785940923257066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_76
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 294
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bcd72ec4e69b550800000000000000
+      internalID: 6177089640411810628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_77
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 293
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0348b3b978c903bb0800000000000000
+      internalID: -4958291083496029136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_78
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 294
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5e3eaaab2a71b50800000000000000
+      internalID: 6563893904530466236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_79
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 293
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a639edee1514a910800000000000000
+      internalID: 1847624969713432224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 249
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b700db79ce43c160800000000000000
+      internalID: 7044560869410211765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_81
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 249
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db99bcac835f534a0800000000000000
+      internalID: -6614110853454390851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_82
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 249
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22886ff9c933094e0800000000000000
+      internalID: -1977023488623998942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_83
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 249
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97e829c179018be0800000000000000
+      internalID: -1476888818489956453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_84
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 250
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d7ee74c106144e0800000000000000
+      internalID: -1999211084993626817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_85
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 251
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0de63300514a6bb0800000000000000
+      internalID: -4942065829178577651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_86
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 250
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2885509f2c68630800000000000000
+      internalID: 3929042099719668386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_87
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 251
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd0ed512b24e18b0800000000000000
+      internalID: -5179629188791005709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 205
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8577f5d67613030800000000000000
+      internalID: 3472670507130116341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_89
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 206
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87282de42dc6f810800000000000000
+      internalID: 1798850659662440335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_90
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 205
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f381c5ca4c9b12b30800000000000000
+      internalID: 4260890976825645119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_91
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 206
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abe5ba792a17be40800000000000000
+      internalID: 5672031021151153061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_92
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 206
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cf8673e9429a5d0800000000000000
+      internalID: -3050867010613740417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_93
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 205
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e29fafd5c8e8120800000000000000
+      internalID: 2418024385215016535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_94
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 206
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f78a0098a4806180800000000000000
+      internalID: -9124146985546643464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_95
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 205
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265a7cc94f25bb620800000000000000
+      internalID: 2790915604641981794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_96
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 172
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a9e5d63a205f8e0800000000000000
+      internalID: -1660417986678318589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_97
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 172
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8f524f7f586f6700800000000000000
+      internalID: 535761640046616458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_98
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 172
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5270759e136f4000800000000000000
+      internalID: 22345506167485023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_99
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 172
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db35016d92b7af70800000000000000
+      internalID: 9198517152934869968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_100
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 172
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2cf4b224429bcaf0800000000000000
+      internalID: -375045322617586645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_101
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 172
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1708afaccc8c03f20800000000000000
+      internalID: 3400438500569022577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_102
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 172
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960cf54bf6ca04d00800000000000000
+      internalID: 954952716770066537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_103
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 172
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26203dddcef279cd0800000000000000
+      internalID: -2551517969501715870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 150
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9e63a29542741f0800000000000000
+      internalID: -1060839221843531309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_105
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 152
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 780d1fd82785bb030800000000000000
+      internalID: 3511497583496384647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_106
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 152
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f3a6de6f2988820800000000000000
+      internalID: 2920745947592539934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_107
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 117
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39fddf45ae260d670800000000000000
+      internalID: 8561451650219106195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_108
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 117
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765098b7c49af4600800000000000000
+      internalID: 454768233342895463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_109
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 117
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe4af22a8bf39180800000000000000
+      internalID: -9109661050529493317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_110
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 117
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7405086f30fe53ec0800000000000000
+      internalID: -3587698727831187385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_111
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 117
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe6d73beeb3b8a70800000000000000
+      internalID: 8830217390789586618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_112
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 117
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587b88183c2c9c660800000000000000
+      internalID: 7406665207135123333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_113
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 117
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ab9000e996a4040800000000000000
+      internalID: 4632631294030363281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_114
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 117
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce0bf60f9e634ee0800000000000000
+      internalID: -1278056239947116855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_115
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 117
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec694f80567ab0640800000000000000
+      internalID: 5047311859782555342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_116
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 117
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c4b175661d67a80800000000000000
+      internalID: -8469351811745362943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_117
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 117
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84e57b4df05cbbe0800000000000000
+      internalID: -1460203130351917939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_118
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 117
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac4c7e7d874f67c0800000000000000
+      internalID: -4075960464708973393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_125
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 68
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e26a3e0910157a80800000000000000
+      internalID: -8469845824401415449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_126
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 69
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d3fc48482a04090800000000000000
+      internalID: -8052257443690889845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_127
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 68
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f177193c90ccc20800000000000000
+      internalID: 3227965768481578896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_128
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 69
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc51ae49b9c468c70800000000000000
+      internalID: 8972943538684302797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_129
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 82
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464c939bc0340d9f0800000000000000
+      internalID: -445782641183439772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_130
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6898ab385fa73c30800000000000000
+      internalID: 4339129559487649903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_131
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 35
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352d4ebdc483fc8b0800000000000000
+      internalID: -5129819547793829293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_132
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 35
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a9d95c45b06a610800000000000000
+      internalID: 1632004373688982053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_133
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 35
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8f25856e123d8a60800000000000000
+      internalID: 7677848045870198668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_134
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0fb9e9110d08710800000000000000
+      internalID: 1693582233985347786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_135
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d37ed319eea48dd0800000000000000
+      internalID: -2484668778317712431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_136
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e6e8aec989dbae0800000000000000
+      internalID: -1531900498518577523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Frisk_137
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732f0308028b39af0800000000000000
+      internalID: -390766292921945545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 721f7c1746463dd4ba2417969ba47194
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Frisk_0: 699622834042658614
+      Frisk_1: 6093710288577514190
+      Frisk_10: 8327196374232339383
+      Frisk_100: -375045322617586645
+      Frisk_101: 3400438500569022577
+      Frisk_102: 954952716770066537
+      Frisk_103: -2551517969501715870
+      Frisk_104: -1060839221843531309
+      Frisk_105: 3511497583496384647
+      Frisk_106: 2920745947592539934
+      Frisk_107: 8561451650219106195
+      Frisk_108: 454768233342895463
+      Frisk_109: -9109661050529493317
+      Frisk_11: -9185994202005519850
+      Frisk_110: -3587698727831187385
+      Frisk_111: 8830217390789586618
+      Frisk_112: 7406665207135123333
+      Frisk_113: 4632631294030363281
+      Frisk_114: -1278056239947116855
+      Frisk_115: 5047311859782555342
+      Frisk_116: -8469351811745362943
+      Frisk_117: -1460203130351917939
+      Frisk_118: -4075960464708973393
+      Frisk_119: -306336896967450113
+      Frisk_12: -267258902136244819
+      Frisk_120: -4954566249042553620
+      Frisk_121: -8439980271733924756
+      Frisk_122: -2804460206968594843
+      Frisk_123: 1774339538333666572
+      Frisk_124: -5244817552877751620
+      Frisk_125: -8469845824401415449
+      Frisk_126: -8052257443690889845
+      Frisk_127: 3227965768481578896
+      Frisk_128: 8972943538684302797
+      Frisk_129: -445782641183439772
+      Frisk_13: -8527748486247085261
+      Frisk_130: 4339129559487649903
+      Frisk_131: -5129819547793829293
+      Frisk_132: 1632004373688982053
+      Frisk_133: 7677848045870198668
+      Frisk_134: 1693582233985347786
+      Frisk_135: -2484668778317712431
+      Frisk_136: -1531900498518577523
+      Frisk_137: -390766292921945545
+      Frisk_14: -4726624958792327810
+      Frisk_15: -4187840486234898459
+      Frisk_16: -8120551911920014441
+      Frisk_17: 4168585633755574508
+      Frisk_18: 2740088961114307033
+      Frisk_19: -5117098477917761787
+      Frisk_2: -2765259499818248409
+      Frisk_20: -711981898252337826
+      Frisk_21: 2230263975966635135
+      Frisk_22: -8476294395202548932
+      Frisk_23: 3862184554121853807
+      Frisk_24: 384440716476868089
+      Frisk_25: -1956888162379629984
+      Frisk_26: -4088612104769517112
+      Frisk_27: -500471994346666975
+      Frisk_28: 2764180749858520351
+      Frisk_29: -6799910917995563233
+      Frisk_3: -6869874779387257181
+      Frisk_30: -6673592697794450235
+      Frisk_31: -5661301295391047294
+      Frisk_32: -1220092714499432494
+      Frisk_33: -1059660494768262799
+      Frisk_34: 594379753069880576
+      Frisk_35: -3905952128950507740
+      Frisk_36: -1667495923610768983
+      Frisk_37: -6758771618751240158
+      Frisk_38: -6443014005548137329
+      Frisk_39: 1599017901358350666
+      Frisk_4: 6808968749587890681
+      Frisk_40: -4270941926226948293
+      Frisk_41: -5024641822743045490
+      Frisk_42: 4186003865517782928
+      Frisk_43: 6557024886485050743
+      Frisk_44: -4566797737727969019
+      Frisk_45: 4715454477801635198
+      Frisk_46: 6766006621851932264
+      Frisk_47: -6990501364330112704
+      Frisk_48: 5941536936026803705
+      Frisk_49: 1235195978381716360
+      Frisk_5: 5982132696013161757
+      Frisk_50: -2683192521091531650
+      Frisk_51: -3906379641230631116
+      Frisk_52: 7358701397833587334
+      Frisk_53: 7349259528914655444
+      Frisk_54: -7808187282035937379
+      Frisk_55: -5039011243113995433
+      Frisk_56: -8095915705931458933
+      Frisk_57: 38738756121158944
+      Frisk_58: 1175171600263142034
+      Frisk_59: -240516980914411828
+      Frisk_6: -9193530025326209821
+      Frisk_60: 1455388984501384433
+      Frisk_61: 1857172872094754160
+      Frisk_62: 8848236759428436404
+      Frisk_63: 9123708968740824050
+      Frisk_64: 5644166641379616282
+      Frisk_65: -8805319803614612614
+      Frisk_66: -7729559995601129615
+      Frisk_67: -8541275566201923035
+      Frisk_68: -3568224892902209221
+      Frisk_69: 4843833205231074531
+      Frisk_7: 8421086048486768925
+      Frisk_70: 8397142104988282312
+      Frisk_71: -5734001061025568920
+      Frisk_72: 3533198846868091564
+      Frisk_73: 5062926382767654025
+      Frisk_74: 4978853696501741392
+      Frisk_75: 8461785940923257066
+      Frisk_76: 6177089640411810628
+      Frisk_77: -4958291083496029136
+      Frisk_78: 6563893904530466236
+      Frisk_79: 1847624969713432224
+      Frisk_8: 996747677196342372
+      Frisk_80: 7044560869410211765
+      Frisk_81: -6614110853454390851
+      Frisk_82: -1977023488623998942
+      Frisk_83: -1476888818489956453
+      Frisk_84: -1999211084993626817
+      Frisk_85: -4942065829178577651
+      Frisk_86: 3929042099719668386
+      Frisk_87: -5179629188791005709
+      Frisk_88: 3472670507130116341
+      Frisk_89: 1798850659662440335
+      Frisk_9: -4138644558717066603
+      Frisk_90: 4260890976825645119
+      Frisk_91: 5672031021151153061
+      Frisk_92: -3050867010613740417
+      Frisk_93: 2418024385215016535
+      Frisk_94: -9124146985546643464
+      Frisk_95: 2790915604641981794
+      Frisk_96: -1660417986678318589
+      Frisk_97: 535761640046616458
+      Frisk_98: 22345506167485023
+      Frisk_99: 9198517152934869968
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
