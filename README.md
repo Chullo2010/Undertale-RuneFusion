@@ -1,6 +1,6 @@
 # 🎹 Undertale-RuneFusion
 
-![Undertale RuneFusion Banner](Images/Banner.png)
+![Undertale RuneFusion Banner](Assets/Images/Banner.png)
 
 > **An Undertale + Deltarune inspired engine built entirely in Unity.**  
 > Designed for *porting, modding, and creating* your own Undertale-style games with true-to-original gameplay, UI, and charm.
