@@ -1,6 +1,6 @@
 # 🎹 Undertale-RuneFusion
 
-![Undertale RuneFusion Banner](https://github.com/yourusername/Undertale-RuneFusion/blob/main/Images/Banner.png)
+![Undertale RuneFusion Banner](Images/Banner.png)
 
 > **An Undertale + Deltarune inspired engine built entirely in Unity.**  
 > Designed for *porting, modding, and creating* your own Undertale-style games with true-to-original gameplay, UI, and charm.
@@ -30,14 +30,18 @@
 
 ---
 
-## 🧩 Getting Started
-
-### 🖥 Requirements
-- **Unity 2022.3 or newer** (LTS recommended)
-- **Git** (for version control and cloning)
+## 🖥 Requirements
+- **Unity 6000.2.6f1** (use this exact editor version for guaranteed compatibility)  
+- **Git** (for version control and cloning)  
 - Optional: **VS Code** or **Rider** for script editing
 
-### 🚀 Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Undertale-RuneFusion.git
+> ⚠️ *Note:* This project has been developed and tested with Unity **6000.2.6f1**. Using a different Unity editor version may cause API/serialization differences.
+
+---
+
+## 🚀 Getting Started
+
+### Clone the repository
+```bash
+git clone https://github.com/yourusername/Undertale-RuneFusion.git
+cd Undertale-RuneFusion
