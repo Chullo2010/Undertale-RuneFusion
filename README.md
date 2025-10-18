@@ -1,4 +1,4 @@
-# 🎹 Undertale-RuneFusion
+# Undertale-RuneFusion
 
 ![Undertale RuneFusion Banner](Assets/Images/Banner.png)
 
