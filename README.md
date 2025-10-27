@@ -43,5 +43,5 @@
 
 ### Clone the repository
 ```bash
-git clone https://github.com/yourusername/Undertale-RuneFusion.git
+git clone https://github.com/Chullo2010/Undertale-RuneFusion.git
 cd Undertale-RuneFusion
