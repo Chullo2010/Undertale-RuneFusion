@@ -2,44 +2,43 @@
 
 ![Undertale RuneFusion Banner](Assets/Images/Banner.png)
 
-> **An Undertale + Deltarune inspired engine built entirely in Unity.**  
-> Designed for *porting, modding, and creating* your own Undertale-style games with true-to-original gameplay, UI, and charm.
+> **An Undertale engine built entirely in Unity.**  
+> Designed for *porting, modding, and creating* your own Undertale-style games with gameplay, UI, and charm.
 
 ---
 
-## 💾 Overview
-**Undertale-RuneFusion** is a Unity-based engine that recreates the core mechanics of **Undertale** and **Deltarune** — including:
-- Classic top-down **Frisk movement** with sprite animations.
-- Scene-based **room transitions** with spawn markers (`Mark A`, `Mark B`).
+## Overview
+**Undertale-RuneFusion** is a Unity-based engine that recreates the core mechanics of **Undertale** — including:
+- Accurate **movement** with sprite animations.
+- Scene-based **room transitions** with spawn markers.
 - In-game **menu system** with SOUL navigation, item usage, and stats.
-- Authentic **UI layout**, **SFX**, and **game flow** inspired by Toby Fox’s originals.
-- 100% editable in the Unity Editor, making it easy for fans and developers to build custom content.
+- Authentic **UI layout**, **SFX**, and **game flow** Recreated just like in Undertale.
+- 100% editable in the Unity Editor, making it User-friendly and easy for fans and developers to build custom content.
 
 ---
 
-## ⚙️ Features (Work In Progress)
-✅ Smooth Player Movement (Frisk-style)  
-✅ Scene Transition System using Spawn Marks  
+## Features (Work In Progress)
+✅ Smooth Player Movement  
+✅ Scene Transition System  
 ✅ Fade-in/out transitions  
-✅ Full UI Menu (STAT, ITEM, ACT, etc.)  
-✅ SOUL cursor navigation and sound feedback  
+✅ Full UI Menu  
 🔲 Battle Engine (coming soon!)  
 🔲 Dialogue System with Text Flow  
 🔲 Save Points and Persistence  
-🔲 Custom Sprites, Music, and Animations  
+🔲 Wiki and Video tutorial  
 
 ---
 
-## 🖥 Requirements
+## Requirements
 - **Unity 6000.2.6f1** (use this exact editor version for guaranteed compatibility)  
 - **Git** (for version control and cloning)  
 - Optional: **VS Code** or **Rider** for script editing
 
-> ⚠️ *Note:* This project has been developed and tested with Unity **6000.2.6f1**. Using a different Unity editor version may cause API/serialization differences.
+> *Note:* This project has been developed and tested with Unity **6000.2.6f1**. Using a different Unity editor version may cause API/serialization differences.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Clone the repository
 ```bash
